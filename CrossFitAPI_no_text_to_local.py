@@ -4,14 +4,9 @@ jim_foley_url = 'https://games.crossfit.com/competitions/api/v1/competitions/ope
 
 #Url Request
 r = requests.get(jim_foley_url)
+CF_data = (r.json())
 
-with open('rank.txt', 'w') as fd:
-    fd.write(r.text)
 
-from itertools import islice
-
-with open("rank.txt") as f:
-    for line in f:
-        if "Jim Foley" in line:
-            print(''.join(islice(f,112)))
+for x in CF_data:
+    print(x)
 

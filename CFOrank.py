@@ -21,7 +21,7 @@ from itertools import islice
 with open("rank2.txt") as f:
     for line in f:
         if "Jim Foley" in line:
-            a=''.join(islice(f,47))
+            a=''.join(islice(f,112))
 
 #parsing txt again to just display overall rank
 for item in a.split("\n"):
@@ -31,6 +31,7 @@ for item in a.split("\n"):
 #substring to just include number from line
 b = rank[12:16]
 
-
+print()
 print('Jim Foley Overall Rank:', b)
+print()
 

@@ -6,9 +6,9 @@
 
 	pagination:
 	{
-		currentPage:28,
+		currentPage:23,
 		totalPages:66,
-		totalCompetitors:3264
+		totalCompetitors:3268
 	},
 
 	sort:0,
@@ -53,8 +53,12 @@
 			columnName:4
 		},
 		{
-			ordinal:5,
+			ordinal:4,
 			columnName:5
+		},
+		{
+			ordinal:5,
+			columnName:6
 		}
 	],
 
@@ -63,10 +67,127 @@
 		{
 			entrant:
 			{
-				competitorId:1169280,
-				competitorName:Alex Hering,
-				firstName:Alex,
-				lastName:Hering,
+				competitorId:959242,
+				competitorName:Richard Angstadt,
+				firstName:Richard,
+				lastName:Angstadt,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:9657d-P959242_1-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:7052,
+				affiliateName:Hudson River CrossFit,
+				age:32,
+				height:75 in,
+				weight:203 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:746,
+				score:12940000,
+				scoreDisplay:294 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:c78ef85f253634c4a795,
+				scaled:0,
+				video:0,
+				breakdown:9 rounds +\n6 toes-to-bars,judge:Jay Wein,affiliate:Hudson River CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:417,
+				score:11100290,
+				scoreDisplay:7:10,
+				mobileScoreDisplay:,
+				scoreIdentifier:8278b63b990ce0786dd8,
+				scaled:0,
+				video:0,
+				time:430,breakdown:110 reps\n215 lb.,judge:Jay Wein,affiliate:Hudson River CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:985,
+				score:12150290,
+				scoreDisplay:215 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:9930324f24a8966aace3,
+				scaled:0,
+				video:0,
+				breakdown:215 lb.,time:430,judge:Jay Wein,affiliate:Hudson River CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:2605,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1544,
+				score:10290498,
+				scoreDisplay:29 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:6d7b76d29193b0906218,
+				scaled:0,
+				video:0,
+				time:42,breakdown:21 deadlifts\n8 handstand push-ups,judge:Jay Wein,affiliate:Hudson River CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:433,
+				score:10800000,
+				scoreDisplay:80 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:e1c2eedd9b832146920e,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n15 thr. 5 PU,judge:Jay Wein,affiliate:Hudson River CrossFit,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1101,
+			overallScore:6730,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:1317277,
+				competitorName:Aidan Mayberry,
+				firstName:Aidan,
+				lastName:Mayberry,
 				status:ACT,
 				bibId:,
 				gender:M,
@@ -76,218 +197,10 @@
 				regionId:11,
 				regionName:North East,
 				divisionId:1,
-				profession:0,
-				affiliateId:17587,
-				affiliateName:150 Bay CrossFit,
-				age:27,
-				height:,
-				weight:,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1334,
-				score:12590000,
-				scoreDisplay:259 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:6afb67e6d3653ff0f8f4,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n3 toes-to-bars,judge:Andre Crews,affiliate:150 Bay CrossFit,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1334,
-			overallScore:1334,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:1258338,
-				competitorName:Doug Mocik,
-				firstName:Doug,
-				lastName:Mocik,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:7548,
-				affiliateName:CrossFit Delirium,
-				age:27,
-				height:,
-				weight:185 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1334,
-				score:12590000,
-				scoreDisplay:259 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:58295e6cce39663603d1,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n3 toes-to-bars,judge:Anthony Mellone,affiliate:CrossFit Delirium,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1334,
-			overallScore:1334,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:612560,
-				competitorName:Kevin Rankin,
-				firstName:Kevin,
-				lastName:Rankin,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:91862-P612560_1-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:2508,
-				affiliateName:CrossFit Aspire,
-				age:34,
-				height:70 in,
-				weight:171 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1334,
-				score:12590000,
-				scoreDisplay:259 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:0effbc39bad12599aeda,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n3 toes-to-bars,judge:Matt Whitehead,affiliate:CrossFit Aspire,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1334,
-			overallScore:1334,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:603035,
-				competitorName:David Wicki,
-				firstName:David,
-				lastName:Wicki,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:12,
-				profession:0,
-				affiliateId:5532,
-				affiliateName:CrossFit Salus,
-				age:44,
-				height:72 in,
-				weight:170 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1334,
-				score:12590000,
-				scoreDisplay:259 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:2b9120cddf0af9f2f7d7,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n3 toes-to-bars,judge:Gino Salveo,affiliate:CrossFit Salus,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1334,
-			overallScore:1334,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:866446,
-				competitorName:Gerard Cabrera,
-				firstName:Gerard,
-				lastName:Cabrera,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:3,
-				profession:0,
-				affiliateId:16369,
-				affiliateName:CrossFit WcG,
-				age:48,
+				profession:128,
+				affiliateId:18865,
+				affiliateName:CrossFit Maplewood,
+				age:18,
 				height:,
 				weight:175 lb,
 				teamCaptain:0
@@ -302,31 +215,96 @@
 			[
 				{
 				ordinal:1,
-				rank:1334,
-				score:12590000,
-				scoreDisplay:259 reps,
+				rank:1615,
+				score:12410000,
+				scoreDisplay:241 reps,
 				mobileScoreDisplay:,
-				scoreIdentifier:3c212b8861e46ddd3fca,
+				scoreIdentifier:4b20e5c7a26f9d88bc75,
 				scaled:0,
 				video:0,
-				breakdown:8 rounds +\n3 toes-to-bars,judge:Daniel Hudock,affiliate:CrossFit WcG,
+				breakdown:7 rounds +\n8 toes-to-bars\n9 clean & jerks,judge:James Maldonado,affiliate:CrossFit Maplewood,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:552,
+				score:11100264,
+				scoreDisplay:7:36,
+				mobileScoreDisplay:,
+				scoreIdentifier:5689641de79418ef621b,
+				scaled:0,
+				video:0,
+				time:456,breakdown:110 reps\n229 lb.,judge:Mike Summersgill,affiliate:CrossFit Maplewood,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:727,
+				score:12290264,
+				scoreDisplay:229 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:5a8eae1f8087a8d9033b,
+				scaled:0,
+				video:0,
+				breakdown:229 lb.,time:456,judge:Mike Summersgill,affiliate:CrossFit Maplewood,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1295,
+				score:12200315,
+				scoreDisplay:220 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:8bcc46ce916183b2c6af,
+				scaled:0,
+				video:0,
+				time:525,breakdown:100 double-unders\n20 overhead squats\n100 double-unders,judge:Johanna Thornton,affiliate:CrossFit Maplewood,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1475,
+				score:10330007,
+				scoreDisplay:33 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:5e5b98e6f7194f6dfe49,
+				scaled:0,
+				video:0,
+				time:533,breakdown:21 deadlifts\n12 handstand push-ups,judge:Chas Makkaraeng,affiliate:CrossFit Maplewood,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
 				heat:,
 				lane:
 				}
 
 			],
 
-			overallRank:1334,
-			overallScore:1334,
+			overallRank:1102,
+			overallScore:6731,
 			nextStage:
 		},
 		{
 			entrant:
 			{
-				competitorId:717982,
-				competitorName:Jeff Sohler,
-				firstName:Jeff,
-				lastName:Sohler,
+				competitorId:1410344,
+				competitorName:Joseph Bartolotta,
+				firstName:Joseph,
+				lastName:Bartolotta,
 				status:ACT,
 				bibId:,
 				gender:M,
@@ -336,272 +314,12 @@
 				regionId:11,
 				regionName:North East,
 				divisionId:1,
-				profession:2,
-				affiliateId:8861,
-				affiliateName:CrossFit Chimney Rock,
-				age:34,
-				height:73 in,
-				weight:205 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1334,
-				score:12590000,
-				scoreDisplay:259 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:360e1d18b1c2ab78c7da,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n3 toes-to-bars,judge:Peter OConnor,affiliate:CrossFit Chimney Rock,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1334,
-			overallScore:1334,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:931102,
-				competitorName:Robert Butts,
-				firstName:Robert,
-				lastName:Butts,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:bd98c-P931102_1-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
 				profession:0,
-				affiliateId:11244,
-				affiliateName:G City CrossFit,
-				age:31,
-				height:71 in,
-				weight:205 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1334,
-				score:12590000,
-				scoreDisplay:259 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:4921993400eb10b8a82a,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n3 toes-to-bars,judge:Ann Panarello,affiliate:G City CrossFit,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1334,
-			overallScore:1334,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:600840,
-				competitorName:Keith Vermilyea,
-				firstName:Keith,
-				lastName:Vermilyea,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:0e622-P600840_1-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:3,
-				profession:0,
-				affiliateId:2220,
-				affiliateName:CrossFit ACT,
-				age:49,
-				height:71 in,
-				weight:201 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1334,
-				score:12590000,
-				scoreDisplay:259 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:b1712126a1869d3df8f2,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n3 toes-to-bars,judge:Jessica Murden,affiliate:CrossFit ACT,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1334,
-			overallScore:1334,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:554142,
-				competitorName:Thomas Bergstrand,
-				firstName:Thomas,
-				lastName:Bergstrand,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:3,
-				profession:0,
-				affiliateId:4567,
-				affiliateName:Rockaway CrossFit,
-				age:47,
-				height:69 in,
-				weight:170 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:d4362e31b5c76d748949,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Eric Basek,affiliate:Rockaway CrossFit,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:225093,
-				competitorName:Adrian Gonzalez,
-				firstName:Adrian,
-				lastName:Gonzalez,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:3,
-				profession:0,
-				affiliateId:476,
-				affiliateName:RedShed CrossFit,
-				age:48,
-				height:,
-				weight:160 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:54a5a03938852b1be3d3,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Colin Eckert,affiliate:RedShed CrossFit,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:109203,
-				competitorName:Craig Walsh,
-				firstName:Craig,
-				lastName:Walsh,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:1f8c3-P109203_2-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:2,
-				affiliateId:13901,
-				affiliateName:CrossFit Vae Victis,
+				affiliateId:11330,
+				affiliateName:Strength Works CrossFit,
 				age:33,
-				height:75 in,
-				weight:231 lb,
+				height:,
+				weight:,
 				teamCaptain:0
 			},
 
@@ -614,46 +332,111 @@
 			[
 				{
 				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
+				rank:746,
+				score:12940000,
+				scoreDisplay:294 reps,
 				mobileScoreDisplay:,
-				scoreIdentifier:8ef9a55cbcc345ca8d86,
+				scoreIdentifier:64d6e641c9c63809ae39,
 				scaled:0,
 				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Tim Carr,affiliate:CrossFit Vae Victis,
+				breakdown:9 rounds +\n6 toes-to-bars,judge:Zachary Gibbon,affiliate:Strength Works CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1449,
+				score:11100125,
+				scoreDisplay:9:55,
+				mobileScoreDisplay:,
+				scoreIdentifier:e2725fd8f7eb660d4353,
+				scaled:0,
+				video:0,
+				time:595,breakdown:110 reps\n227 lb.,judge:Dan Jedziniak,affiliate:Strength Works CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:757,
+				score:12270125,
+				scoreDisplay:227 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:fbce1f438a0facb40c7b,
+				scaled:0,
+				video:0,
+				breakdown:227 lb.,time:595,judge:Dan Jedziniak,affiliate:Strength Works CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:2605,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:108,
+				score:11170030,
+				scoreDisplay:117 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:5c81c127b7bb931c516b,
+				scaled:0,
+				video:0,
+				time:510,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n9 handstand push-ups\n21 deadlifts\n30 ft. handstand walk,judge:Zachary Gibbon,affiliate:Strength Works CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
 				heat:,
 				lane:
 				}
 
 			],
 
-			overallRank:1359,
-			overallScore:1359,
+			overallRank:1103,
+			overallScore:6732,
 			nextStage:
 		},
 		{
 			entrant:
 			{
-				competitorId:880481,
-				competitorName:Michael Mosenthine,
-				firstName:Michael,
-				lastName:Mosenthine,
+				competitorId:1389047,
+				competitorName:Dustin Fleischer,
+				firstName:Dustin,
+				lastName:Fleischer,
 				status:ACT,
 				bibId:,
 				gender:M,
-				profilePicS3key:7fd88-P880481_1-184.jpg,
+				profilePicS3key:pukie.png,
 				countryShortCode:,
 				regionalCode:4,
 				regionId:11,
 				regionName:North East,
 				divisionId:1,
 				profession:0,
-				affiliateId:18307,
-				affiliateName:CrossFit Andare,
-				age:34,
+				affiliateId:715,
+				affiliateName:CrossFit Versus,
+				age:29,
 				height:,
-				weight:190 lb,
+				weight:,
 				teamCaptain:0
 			},
 
@@ -666,1398 +449,696 @@
 			[
 				{
 				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
+				rank:393,
+				score:13240000,
+				scoreDisplay:324 reps,
 				mobileScoreDisplay:,
-				scoreIdentifier:6f6648552f1e4d1a08f7,
+				scoreIdentifier:516dbc1ee249aee16330,
 				scaled:0,
 				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Kristin Mosenthine,affiliate:CrossFit Andare,
+				breakdown:10 rounds +\n4 toes-to-bars,judge:Chris ascari,affiliate:CrossFit Versus,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:552,
+				score:11100264,
+				scoreDisplay:7:36,
+				mobileScoreDisplay:,
+				scoreIdentifier:c12aacb62e48916cd13c,
+				scaled:0,
+				video:0,
+				time:456,breakdown:110 reps\n205 lb.,judge:Christopher Ascari,affiliate:CrossFit Versus,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1152,
+				score:12050264,
+				scoreDisplay:205 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:d07c357b7b96e88c131b,
+				scaled:0,
+				video:0,
+				breakdown:205 lb.,time:456,judge:Christopher Ascari,affiliate:CrossFit Versus,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:2605,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:967,
+				score:10670000,
+				scoreDisplay:67 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:17abea2cf116647e9a37,
+				scaled:0,
+				video:0,
+				time:540,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n10 handstand push-ups,judge:Christopher Ascari,affiliate:CrossFit Versus,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
 				heat:,
 				lane:
 				}
 
 			],
 
-			overallRank:1359,
-			overallScore:1359,
+			overallRank:1104,
+			overallScore:6736,
 			nextStage:
 		},
 		{
 			entrant:
 			{
-				competitorId:33482,
-				competitorName:Kamil Varol,
-				firstName:Kamil,
-				lastName:Varol,
+				competitorId:52265,
+				competitorName:Dennis Sims,
+				firstName:Dennis,
+				lastName:Sims,
 				status:ACT,
 				bibId:,
 				gender:M,
-				profilePicS3key:af2d0-P33482_8-184.jpg,
+				profilePicS3key:9be94-P52265_6-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:3,
+				profession:2,
+				affiliateId:16394,
+				affiliateName:CrossFit Off the Grid,
+				age:45,
+				height:73 in,
+				weight:218 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1536,
+				score:12440000,
+				scoreDisplay:244 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:6a5c8889745ef5b3f462,
+				scaled:0,
+				video:0,
+				breakdown:7 rounds +\n8 toes-to-bars\n10 clean & jerks\n2 calories,judge:Kenneth Barber,affiliate:CrossFit Off the Grid,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1905,
+				score:11100042,
+				scoreDisplay:11:18,
+				mobileScoreDisplay:,
+				scoreIdentifier:1d8133b5fc6f61e654f3,
+				scaled:0,
+				video:0,
+				time:678,breakdown:110 reps\n220 lb.,judge:Joseph Rowson,affiliate:CrossFit Off the Grid,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:950,
+				score:12200042,
+				scoreDisplay:220 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:3743662158b9bb6107a2,
+				scaled:0,
+				video:0,
+				breakdown:220 lb.,time:678,judge:Joseph Rowson,affiliate:CrossFit Off the Grid,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:739,
+				score:12300391,
+				scoreDisplay:230 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:4beb06587ec47f9d2e0b,
+				scaled:0,
+				video:0,
+				time:449,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n10 ring muscle-ups,judge:Joseph Rowson,affiliate:CrossFit Off the Grid,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:988,
+				score:10660128,
+				scoreDisplay:66 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:3e3df370f3358862c888,
+				scaled:0,
+				video:0,
+				time:412,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n9 handstand push-ups,judge:Kenneth Barber,affiliate:CrossFit Off the Grid,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:618,
+				score:10680000,
+				scoreDisplay:68 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:b12e70c0f249684d6df5,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n8 thr.,judge:Joseph Rowson,affiliate:CrossFit Off the Grid,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1104,
+			overallScore:6736,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:880153,
+				competitorName:Justin Genese,
+				firstName:Justin,
+				lastName:Genese,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:4b867-P880153_1-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:18,
+				profession:0,
+				affiliateId:10197,
+				affiliateName:CrossFit Pequannock,
+				age:39,
+				height:60 in,
+				weight:199 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1203,
+				score:12650000,
+				scoreDisplay:265 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:cf2c916785beebe54c99,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n8 toes-to-bars\n1 clean & jerks,judge:John McHugh,affiliate:CrossFit Pequannock,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:926,
+				score:11100207,
+				scoreDisplay:8:33,
+				mobileScoreDisplay:,
+				scoreIdentifier:2ca9772609c14e228d83,
+				scaled:0,
+				video:0,
+				time:513,breakdown:110 reps\n205 lb.,judge:Joanna Hofbauer,affiliate:CrossFit Pequannock,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1180,
+				score:12050207,
+				scoreDisplay:205 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:3c75e9e971b8913edb92,
+				scaled:0,
+				video:0,
+				breakdown:205 lb.,time:513,judge:Joanna Hofbauer,affiliate:CrossFit Pequannock,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1311,
+				score:12200295,
+				scoreDisplay:220 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:fc56c8c02c4a51df6fe2,
+				scaled:0,
+				video:0,
+				time:545,breakdown:100 double-unders\n20 overhead squats\n100 double-unders,judge:Mike Lubrano,affiliate:CrossFit Pequannock,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1050,
+				score:10630240,
+				scoreDisplay:63 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:ef8edd8044d1a35c8d6e,
+				scaled:0,
+				video:0,
+				time:300,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n6 handstand push-ups,judge:Pete Hasselberger,affiliate:CrossFit Passaic Valley,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1106,
+			overallScore:6737,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:251460,
+				competitorName:Anthony Costabile,
+				firstName:Anthony,
+				lastName:Costabile,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:12,
+				profession:0,
+				affiliateId:3490,
+				affiliateName:CrossFit Garwood,
+				age:41,
+				height:,
+				weight:,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:168,
+				score:13540000,
+				scoreDisplay:354 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:62d0d1111d21d464d814,
+				scaled:0,
+				video:0,
+				breakdown:11 rounds +\n2 toes-to-bars,judge:Justin  Lasala,affiliate:CrossFit Garwood,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:32,
+				score:11100409,
+				scoreDisplay:5:11,
+				mobileScoreDisplay:,
+				scoreIdentifier:6c1ab12086722dee2867,
+				scaled:0,
+				video:0,
+				time:311,breakdown:110 reps\n255 lb.,judge:Justin Lasala,affiliate:CrossFit Garwood,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:358,
+				score:12550409,
+				scoreDisplay:255 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:1b373ce2c45f13416061,
+				scaled:0,
+				video:0,
+				breakdown:255 lb.,time:311,judge:Justin Lasala,affiliate:CrossFit Garwood,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:2605,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:2510,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1107,
+			overallScore:6740,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:1341182,
+				competitorName:Daniel Giamo,
+				firstName:Daniel,
+				lastName:Giamo,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:8870,
+				affiliateName:Exit 153 CrossFit,
+				age:28,
+				height:,
+				weight:,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1316,
+				score:12600000,
+				scoreDisplay:260 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:164b1a64615ae819721f,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n4 toes-to-bars,judge:Kris Edwards,affiliate:Exit 153 CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1067,
+				score:11100184,
+				scoreDisplay:8:56,
+				mobileScoreDisplay:,
+				scoreIdentifier:952e62a919e9fdc12257,
+				scaled:0,
+				video:0,
+				time:536,breakdown:110 reps\n177 lb.,judge:Kris Edwards,affiliate:Exit 153 CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1658,
+				score:11770184,
+				scoreDisplay:177 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:1edaf7e3a54634fb5666,
+				scaled:0,
+				video:0,
+				breakdown:177 lb.,time:536,judge:Kris Edwards,affiliate:Exit 153 CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1306,
+				score:12200299,
+				scoreDisplay:220 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:f16c40ae055da28f2fda,
+				scaled:0,
+				video:0,
+				time:541,breakdown:100 double-unders\n20 overhead squats\n100 double-unders,judge:Karen Agrifolio,affiliate:Exit 153 CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:875,
+				score:10700206,
+				scoreDisplay:70 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:d2927449c3b03cb5a698,
+				scaled:0,
+				video:0,
+				time:334,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n13 handstand push-ups,judge:Victoria Agrifolio,affiliate:Exit 153 CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:521,
+				score:10750000,
+				scoreDisplay:75 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:1d32d28f53b5f6935f36,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n15 thr.,judge:Kris Edwards,affiliate:Exit 153 CrossFit,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1108,
+			overallScore:6743,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:525201,
+				competitorName:Mike Oreskovich,
+				firstName:Mike,
+				lastName:Oreskovich,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:5a329-P525201_1-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:18,
+				profession:0,
+				affiliateId:1472,
+				affiliateName:CrossFit 1 Force,
+				age:39,
+				height:68 in,
+				weight:185 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1397,
+				score:12560000,
+				scoreDisplay:256 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:9bea88545a573172229d,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n0 toes-to-bars,judge:Krista Tobin,affiliate:CrossFit 1 Force,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1361,
+				score:11100138,
+				scoreDisplay:9:42,
+				mobileScoreDisplay:,
+				scoreIdentifier:77c42b97a750e04fdcea,
+				scaled:0,
+				video:0,
+				time:582,breakdown:110 reps\n192 lb.,judge:Alison Dellaquilla,affiliate:CrossFit 1 Force,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1409,
+				score:11920138,
+				scoreDisplay:192 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:a442fb7b1965b1c9b7ed,
+				scaled:0,
+				video:0,
+				breakdown:192 lb.,time:582,judge:Alison Dellaquilla,affiliate:CrossFit 1 Force,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1022,
+				score:12210398,
+				scoreDisplay:221 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:e99234bf5b2087172030,
+				scaled:0,
+				video:0,
+				time:442,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n1 ring muscle-ups,judge:Christopher Howley,affiliate:CrossFit 1 Force,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1207,
+				score:10590030,
+				scoreDisplay:59 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:89bd0ae7835f704d96e7,
+				scaled:0,
+				video:0,
+				time:510,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n2 handstand push-ups,judge:Krista Tobin,affiliate:CrossFit 1 Force,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:349,
+				score:10850000,
+				scoreDisplay:85 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:4c272900f7ccf7199322,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n15 thr. 10 PU,judge:Krista Tobin,affiliate:CrossFit 1 Force,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1109,
+			overallScore:6745,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:373596,
+				competitorName:Wisley Bocourt,
+				firstName:Wisley,
+				lastName:Bocourt,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:d3982-P373596_7-184.jpg,
 				countryShortCode:,
 				regionalCode:4,
 				regionId:11,
 				regionName:North East,
 				divisionId:1,
 				profession:1,
-				affiliateId:10793,
-				affiliateName:CrossFit 643,
-				age:29,
-				height:69 in,
-				weight:195 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:35dc79912b2198211375,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Tori Bakey,affiliate:CrossFit 643,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:322428,
-				competitorName:Chris Risi,
-				firstName:Chris,
-				lastName:Risi,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:37c35-P322428_2-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:16646,
-				affiliateName:CrossFit Adversary,
-				age:31,
-				height:68 in,
-				weight:201 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:09bd480f7fa4d559897c,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:April Risi,affiliate:CrossFit Adversary,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:1271478,
-				competitorName:Jorge Murillo,
-				firstName:Jorge,
-				lastName:Murillo,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:9309,
-				affiliateName:CrossFit TreeHouse,
-				age:21,
-				height:,
-				weight:,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:0c7f89de83cb2fcda1da,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Angelo Geronimo,affiliate:CrossFit TreeHouse,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:1066943,
-				competitorName:Michael Hallam,
-				firstName:Michael,
-				lastName:Hallam,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:12f35-P1066943_1-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:3,
-				profession:0,
-				affiliateId:15689,
-				affiliateName:CrossFit HideOut,
-				age:45,
-				height:73 in,
-				weight:185 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:5ebd1631c9d1572e3477,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Vince Ferrara,affiliate:CrossFit HideOut,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:538795,
-				competitorName:Frank Nugent,
-				firstName:Frank,
-				lastName:Nugent,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:12,
-				profession:0,
-				affiliateId:5332,
-				affiliateName:CrossFit Bison,
-				age:43,
-				height:,
-				weight:155 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:998fb3510d17bef107d6,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:chris tafaro,affiliate:CrossFit Bison,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:798369,
-				competitorName:Sean Cronin,
-				firstName:Sean,
-				lastName:Cronin,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:10295,
-				affiliateName:CrossFit By The Sea,
-				age:32,
-				height:,
-				weight:,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:caf87c14fc86f4bbd681,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:ashley deballo,affiliate:CrossFit By The Sea,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:701639,
-				competitorName:Bob Visotsky,
-				firstName:Bob,
-				lastName:Visotsky,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:5,
-				profession:0,
-				affiliateId:5332,
-				affiliateName:CrossFit Bison,
-				age:50,
-				height:,
-				weight:223 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:55e2c70267ea5fc921ab,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Alan Grinberg,affiliate:CrossFit Bison,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:318868,
-				competitorName:Adam Emmons,
-				firstName:Adam,
-				lastName:Emmons,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:4af97-P318868_2-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:18,
-				profession:2,
-				affiliateId:0,
-				affiliateName:,
-				age:35,
-				height:66 in,
-				weight:170 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:f86359a8a5d467a9a3c1,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Amy Beecroft,affiliate:CrossFit Razor,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:1099113,
-				competitorName:Ilya Brand,
-				firstName:Ilya,
-				lastName:Brand,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:12,
-				profession:0,
-				affiliateId:2422,
-				affiliateName:CrossFit Veracity,
-				age:44,
-				height:,
-				weight:,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:421ef89278fb881bbc73,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Owen Carey,affiliate:CrossFit Veracity,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:1238381,
-				competitorName:Laudi Munoz,
-				firstName:Laudi,
-				lastName:Munoz,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:1774,
-				affiliateName:Maxability Sports and CrossFit,
-				age:25,
-				height:,
-				weight:,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:588f0d8e476695b861e9,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Tim Lynch,affiliate:Maxability Sports and CrossFit,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:581945,
-				competitorName:Jensson Alvarado,
-				firstName:Jensson,
-				lastName:Alvarado,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:b583d-P581945_2-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:2220,
-				affiliateName:CrossFit ACT,
-				age:34,
-				height:64 in,
-				weight:205 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:e1039dd263d43428da3d,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Shaza Khatib,affiliate:CrossFit ACT,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:1023115,
-				competitorName:Pat Tighe,
-				firstName:Pat,
-				lastName:Tighe,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:411,
-				affiliateName:JSA CrossFit,
-				age:26,
-				height:74 in,
-				weight:220 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:70c6b00421ef3c319aa3,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Christian Ruff,affiliate:JSA CrossFit,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:12036,
-				competitorName:Justin Frimmel,
-				firstName:Justin,
-				lastName:Frimmel,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:f7a9c-P12036_9-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:5782,
-				affiliateName:CrossFit Bayonne,
-				age:32,
-				height:72 in,
-				weight:195 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:475609d53b62e0e2ff53,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Jillian Leo,affiliate:CrossFit Bayonne,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:902228,
-				competitorName:Richard Marsh,
-				firstName:Richard,
-				lastName:Marsh,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:2a4a6-P902228_2-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:3,
-				profession:2,
-				affiliateId:706,
-				affiliateName:CrossFit Ignite,
-				age:47,
-				height:77 in,
-				weight:230 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1359,
-				score:12580000,
-				scoreDisplay:258 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:03499fd29277a6be279a,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n2 toes-to-bars,judge:Debbie Maracich,affiliate:CrossFit Ignite,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1359,
-			overallScore:1359,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:681331,
-				competitorName:Pawel Bankowski,
-				firstName:Pawel,
-				lastName:Bankowski,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:19752,
-				affiliateName:CrossFit Finest,
-				age:25,
-				height:75 in,
-				weight:195 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:cf956153fb11ec163dec,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Jessica Silverman,affiliate:CrossFit Finest,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:607760,
-				competitorName:KeiShawn Singleton,
-				firstName:KeiShawn,
-				lastName:Singleton,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:619,
-				affiliateName:CrossFit Montclair,
-				age:31,
-				height:,
-				weight:185 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:41905a9bf0a9d1239da9,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Ayo Falae,affiliate:CrossFit Montclair,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:349166,
-				competitorName:Philip Caramiello,
-				firstName:Philip,
-				lastName:Caramiello,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:1472,
-				affiliateName:CrossFit 1 Force,
-				age:31,
-				height:72 in,
-				weight:230 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:2ee1bcb8ca6693de6f55,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Chris Dellaquilla,affiliate:CrossFit 1 Force,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:20243,
-				competitorName:Natty Bandasak,
-				firstName:Natty,
-				lastName:Bandasak,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:95acd-P20243_5-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:32,
-				affiliateId:0,
-				affiliateName:,
-				age:29,
-				height:67 in,
-				weight:155 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:da72fbfc52cc7c408e67,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Gregg Arsenuk,affiliate:CrossFit Montclair,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:512458,
-				competitorName:Bryan Ferraez,
-				firstName:Bryan,
-				lastName:Ferraez,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:452e9-P512458_2-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:12,
-				profession:0,
-				affiliateId:8861,
-				affiliateName:CrossFit Chimney Rock,
-				age:42,
-				height:,
-				weight:165 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:ef042d0717d336ca6a80,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Joel Alcala,affiliate:CrossFit Chimney Rock,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:469073,
-				competitorName:Tom Alexander,
-				firstName:Tom,
-				lastName:Alexander,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:5821,
-				affiliateName:CrossFit Millburn,
-				age:26,
-				height:,
-				weight:169 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:f1f171a49cb6295d0c38,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Diogo Dias,affiliate:CrossFit Millburn,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:109566,
-				competitorName:richard lim,
-				firstName:richard,
-				lastName:lim,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:18,
-				profession:0,
-				affiliateId:2901,
-				affiliateName:CrossFit KOA,
-				age:37,
-				height:65 in,
-				weight:145 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:27494ba32d3b0e7a1115,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Joe Ortiz,affiliate:CrossFit KOA,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:775297,
-				competitorName:John Nittolo,
-				firstName:John,
-				lastName:Nittolo,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:e205c-P775297_4-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:5,
-				profession:0,
-				affiliateId:16820,
-				affiliateName:CrossFit Roseland,
-				age:50,
-				height:72 in,
-				weight:190 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:6d3b1895820fc1ac0295,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Joe Passalaqua,affiliate:CrossFit Roseland,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:1324538,
-				competitorName:Luke Fortunato,
-				firstName:Luke,
-				lastName:Fortunato,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:16,
-				profession:0,
-				affiliateId:20945,
-				affiliateName:CrossFit Waldwick,
-				age:17,
-				height:70 in,
-				weight:185 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:a6290698a7671ac58807,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Michael Jones,affiliate:CrossFit Waldwick,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:774057,
-				competitorName:Alex Sabatino,
-				firstName:Alex,
-				lastName:Sabatino,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:71173-P774057_1-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:3,
-				profession:0,
-				affiliateId:18428,
-				affiliateName:CrossFit TreeHouse 2,
-				age:49,
-				height:70 in,
-				weight:185 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:8c1ac8d6355957805983,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Nico Martirano,affiliate:CrossFit TreeHouse 2,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:89367,
-				competitorName:Scott MacDougall,
-				firstName:Scott,
-				lastName:MacDougall,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:7b329-P89367_5-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:18,
-				profession:0,
-				affiliateId:3545,
-				affiliateName:CrossFit Stealth,
-				age:36,
-				height:70 in,
-				weight:165 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:39a4bbbb2ff5d9cd80d1,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Pam Lim,affiliate:CrossFit Stealth,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:1307866,
-				competitorName:Ahmad Bashjawish,
-				firstName:Ahmad,
-				lastName:Bashjawish,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:pukie.png,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:0,
-				affiliateName:,
-				age:27,
-				height:,
-				weight:,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:aefe74fe6cec9803e50a,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Mandy Bernstein,affiliate:CrossFit Cedar Grove,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:988879,
-				competitorName:Daniel Fowler,
-				firstName:Daniel,
-				lastName:Fowler,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:d90f4-P988879_1-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:0,
-				affiliateId:1528,
-				affiliateName:CrossFit Medford,
+				affiliateId:3832,
+				affiliateName:CrossFit Steam,
 				age:30,
-				height:67 in,
-				weight:220 lb,
+				height:71 in,
+				weight:230 lb,
 				teamCaptain:0
 			},
 
@@ -2070,22 +1151,87 @@
 			[
 				{
 				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
+				rank:1152,
+				score:12680000,
+				scoreDisplay:268 reps,
 				mobileScoreDisplay:,
-				scoreIdentifier:5fb3892df1ddd44a267e,
+				scoreIdentifier:241cfe3de8b36771d1f8,
 				scaled:0,
 				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Rory Vannais,affiliate:CrossFit Medford,
+				breakdown:8 rounds +\n8 toes-to-bars\n4 clean & jerks,judge:Patrick OKeefe,affiliate:CrossFit Steam,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1915,
+				score:11100040,
+				scoreDisplay:11:20,
+				mobileScoreDisplay:,
+				scoreIdentifier:95b3e99db81f1c83ad39,
+				scaled:0,
+				video:0,
+				time:680,breakdown:110 reps\n235 lb.,judge:Patrick OKeefe,affiliate:CrossFit Steam,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:700,
+				score:12350040,
+				scoreDisplay:235 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:c5b563d6f9081bbdd3e1,
+				scaled:0,
+				video:0,
+				breakdown:235 lb.,time:680,judge:Patrick OKeefe,affiliate:CrossFit Steam,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1229,
+				score:12200395,
+				scoreDisplay:220 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:19af4cbdd3fc4f5cbeb3,
+				scaled:0,
+				video:0,
+				time:445,breakdown:100 double-unders\n20 overhead squats\n100 double-unders,judge:Patrick OKeefe,affiliate:CrossFit Steam,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1233,
+				score:10580018,
+				scoreDisplay:58 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:5e55a0a9c8052fe559f2,
+				scaled:0,
+				video:0,
+				time:522,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n1 handstand push-ups,judge:Patrick OKeefe,affiliate:CrossFit Steam,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:521,
+				score:10750000,
+				scoreDisplay:75 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:2c06208acafe18216978,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n15 thr.,judge:Patrick OKeefe,affiliate:CrossFit Steam,
 				heat:,
 				lane:
 				}
 
 			],
 
-			overallRank:1377,
-			overallScore:1377,
+			overallRank:1110,
+			overallScore:6750,
 			nextStage:
 		},
 		{
@@ -2122,7 +1268,7 @@
 			[
 				{
 				ordinal:1,
-				rank:1377,
+				rank:1374,
 				score:12570000,
 				scoreDisplay:257 reps,
 				mobileScoreDisplay:,
@@ -2133,20 +1279,85 @@
 				heat:,
 				lane:
 				}
+,				{
+				ordinal:2,
+				rank:1668,
+				score:11100089,
+				scoreDisplay:10:31,
+				mobileScoreDisplay:,
+				scoreIdentifier:ce72d3be2b439845ccf6,
+				scaled:0,
+				video:0,
+				time:631,breakdown:110 reps\n185 lb.,judge:Kelsey Isenberg,affiliate:CrossFit Fort Raritan,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1580,
+				score:11850089,
+				scoreDisplay:185 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:bf4c234b538f12c50711,
+				scaled:0,
+				video:0,
+				breakdown:185 lb.,time:631,judge:Kelsey Isenberg,affiliate:CrossFit Fort Raritan,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:737,
+				score:12300432,
+				scoreDisplay:230 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:2c4b4dd013b6468d9a70,
+				scaled:0,
+				video:0,
+				time:408,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n10 ring muscle-ups,judge:Kelsey Isenberg,affiliate:CrossFit Fort Raritan,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:827,
+				score:10720193,
+				scoreDisplay:72 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:fbe1f78666296934bfee,
+				scaled:0,
+				video:0,
+				time:347,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups,judge:Kelsey Isenberg,affiliate:CrossFit Fort Raritan,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:568,
+				score:10710000,
+				scoreDisplay:71 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:fccb59f70604c3fa2406,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n11 thr.,judge:David Wysmuller,affiliate:CrossFit Fort Raritan,
+				heat:,
+				lane:
+				}
 
 			],
 
-			overallRank:1377,
-			overallScore:1377,
+			overallRank:1111,
+			overallScore:6754,
 			nextStage:
 		},
 		{
 			entrant:
 			{
-				competitorId:1261429,
-				competitorName:Joshua Landau,
-				firstName:Joshua,
-				lastName:Landau,
+				competitorId:1335894,
+				competitorName:Aj Murray,
+				firstName:Aj,
+				lastName:Murray,
 				status:ACT,
 				bibId:,
 				gender:M,
@@ -2157,9 +1368,243 @@
 				regionName:North East,
 				divisionId:1,
 				profession:0,
-				affiliateId:5821,
-				affiliateName:CrossFit Millburn,
-				age:23,
+				affiliateId:2901,
+				affiliateName:CrossFit KOA,
+				age:25,
+				height:,
+				weight:215 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:812,
+				score:12900000,
+				scoreDisplay:290 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:5fccdacfb1495de2551f,
+				scaled:0,
+				video:0,
+				breakdown:9 rounds +\n2 toes-to-bars,judge:Georgios Zavolas,affiliate:CrossFit KOA,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:846,
+				score:11100220,
+				scoreDisplay:8:20,
+				mobileScoreDisplay:,
+				scoreIdentifier:9ae276850413fe044c94,
+				scaled:0,
+				video:0,
+				time:500,breakdown:110 reps\n235 lb.,judge:Georgio,affiliate:CrossFit KOA,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:667,
+				score:12350220,
+				scoreDisplay:235 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:f602a5bdacf02e50e19a,
+				scaled:0,
+				video:0,
+				breakdown:235 lb.,time:500,judge:Georgio,affiliate:CrossFit KOA,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:854,
+				score:12260040,
+				scoreDisplay:226 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:ac5dcbb835921249b0ca,
+				scaled:0,
+				video:0,
+				time:800,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n6 ring muscle-ups,judge:Paul Doud,affiliate:CrossFit KOA,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:2510,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1112,
+			overallScore:6756,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:1013824,
+				competitorName:Kevin Coleman,
+				firstName:Kevin,
+				lastName:Coleman,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:45ea1-P1013824_1-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:1374,
+				affiliateName:CrossFit Annex,
+				age:34,
+				height:74 in,
+				weight:195 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1121,
+				score:12700000,
+				scoreDisplay:270 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:fb402be883a13ab2c9b0,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n8 toes-to-bars\n6 clean & jerks,judge:Michael Brueckner,affiliate:CrossFit Annex,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1762,
+				score:11100073,
+				scoreDisplay:10:47,
+				mobileScoreDisplay:,
+				scoreIdentifier:34ebb37fab8aaac55953,
+				scaled:0,
+				video:0,
+				time:647,breakdown:110 reps\n205 lb.,judge:Chelsey Schmidt,affiliate:CrossFit Annex,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1272,
+				score:12050073,
+				scoreDisplay:205 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:9799d0767bce79b81d60,
+				scaled:0,
+				video:0,
+				breakdown:205 lb.,time:647,judge:Chelsey Schmidt,affiliate:CrossFit Annex,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:935,
+				score:12230276,
+				scoreDisplay:223 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:bff286dd7b571b44ff67,
+				scaled:0,
+				video:0,
+				time:564,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n3 ring muscle-ups,judge:Michael Brueckner,affiliate:CrossFit Annex,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:600,
+				score:10900067,
+				scoreDisplay:90 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:5d56145d6cb9cc5ff559,
+				scaled:0,
+				video:0,
+				time:473,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n9 handstand push-ups,judge:Michael Brueckner,affiliate:CrossFit Annex,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1113,
+			overallScore:6757,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:1221200,
+				competitorName:Steven Nielsen,
+				firstName:Steven,
+				lastName:Nielsen,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:1528,
+				affiliateName:CrossFit Medford,
+				age:30,
 				height:,
 				weight:,
 				teamCaptain:0
@@ -2174,31 +1619,798 @@
 			[
 				{
 				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
+				rank:1095,
+				score:12730000,
+				scoreDisplay:273 reps,
 				mobileScoreDisplay:,
-				scoreIdentifier:33cc97c11b4b7bd5d638,
+				scoreIdentifier:824946533f10aff7dafc,
 				scaled:0,
 				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Kareem Shanawani,affiliate:CrossFit Millburn,
+				breakdown:8 rounds +\n8 toes-to-bars\n9 clean & jerks,judge:David Miller,affiliate:CrossFit Medford,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1114,
+				score:11100175,
+				scoreDisplay:9:05,
+				mobileScoreDisplay:,
+				scoreIdentifier:b9a86ebc6b7929cb445a,
+				scaled:0,
+				video:0,
+				time:545,breakdown:110 reps\n205 lb.,judge:David Miller,affiliate:CrossFit Medford,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1198,
+				score:12050175,
+				scoreDisplay:205 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:964ae8d439bba03ab881,
+				scaled:0,
+				video:0,
+				breakdown:205 lb.,time:545,judge:David Miller,affiliate:CrossFit Medford,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1838,
+				score:9280037,
+				scoreDisplay:13:23 - s,
+				mobileScoreDisplay:,
+				scoreIdentifier:44a8e740b38fff563d92,
+				scaled:1,
+				video:0,
+				time:803,breakdown:928 reps,judge:David Miller,affiliate:CrossFit Medford,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:456,
+				score:10960078,
+				scoreDisplay:96 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:b1bb6cb567ee349df7f7,
+				scaled:0,
+				video:0,
+				time:462,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n9 handstand push-ups\n6 deadlifts,judge:David Miller,affiliate:CrossFit Medford,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
 				heat:,
 				lane:
 				}
 
 			],
 
-			overallRank:1377,
-			overallScore:1377,
+			overallRank:1114,
+			overallScore:6768,
 			nextStage:
 		},
 		{
 			entrant:
 			{
-				competitorId:687345,
-				competitorName:Christopher Como,
-				firstName:Christopher,
-				lastName:Como,
+				competitorId:209635,
+				competitorName:David Oliver,
+				firstName:David,
+				lastName:Oliver,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:12,
+				profession:0,
+				affiliateId:16968,
+				affiliateName:CrossFit Skylands,
+				age:40,
+				height:,
+				weight:215 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1316,
+				score:12600000,
+				scoreDisplay:260 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:689d581db9016597b0c4,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n4 toes-to-bars,judge:Sharon Schultz,affiliate:CrossFit Skylands,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1010,
+				score:11100195,
+				scoreDisplay:8:45,
+				mobileScoreDisplay:,
+				scoreIdentifier:546268e40050aded79fc,
+				scaled:0,
+				video:0,
+				time:525,breakdown:110 reps\n255 lb.,judge:Melissa Geaney,affiliate:CrossFit Skylands,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:389,
+				score:12550195,
+				scoreDisplay:255 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:f3c4bd600c6ed8d9c8fe,
+				scaled:0,
+				video:0,
+				breakdown:255 lb.,time:525,judge:Melissa Geaney,affiliate:CrossFit Skylands,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1028,
+				score:12210370,
+				scoreDisplay:221 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:466b3c4f696087da16e6,
+				scaled:0,
+				video:0,
+				time:470,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n1 ring muscle-ups,judge:Melissa Geaney,affiliate:CrossFit Skylands,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1962,
+				score:1650054,
+				scoreDisplay:8:06 - s,
+				mobileScoreDisplay:,
+				scoreIdentifier:bd4618439c535bf3f25c,
+				scaled:1,
+				video:0,
+				time:486,breakdown:165 reps,judge:Melissa Geaney,affiliate:CrossFit Skylands,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1115,
+			overallScore:6772,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:1259578,
+				competitorName:Mike Reganato,
+				firstName:Mike,
+				lastName:Reganato,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:3,
+				profession:4,
+				affiliateId:337,
+				affiliateName:CrossFit OTG,
+				age:46,
+				height:73 in,
+				weight:194 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1041,
+				score:12740000,
+				scoreDisplay:274 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:782f5f71c27460150768,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n8 toes-to-bars\n10 clean & jerks,judge:Dave Evans,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1462,
+				score:11100124,
+				scoreDisplay:9:56,
+				mobileScoreDisplay:,
+				scoreIdentifier:6f7f8cef9b7c68f1fe1f,
+				scaled:0,
+				video:0,
+				time:596,breakdown:110 reps\n195 lb.,judge:Josh Maxwell,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1377,
+				score:11950124,
+				scoreDisplay:195 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:40b4b4bdd23e84820ee2,
+				scaled:0,
+				video:0,
+				breakdown:195 lb.,time:596,judge:Josh Maxwell,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:628,
+				score:13350011,
+				scoreDisplay:335 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:bdecdc0b359edd85c65d,
+				scaled:0,
+				video:0,
+				time:829,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n12 ring muscle-ups\n100 double-unders\n3 snatches,judge:Danielle Naoum,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1197,
+				score:10590045,
+				scoreDisplay:59 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:062f2304c72a6b647a38,
+				scaled:0,
+				video:0,
+				time:495,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n2 handstand push-ups,judge:Bill Patroni,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1115,
+			overallScore:6772,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:122229,
+				competitorName:Dave Evans,
+				firstName:Dave,
+				lastName:Evans,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:18,
+				profession:0,
+				affiliateId:337,
+				affiliateName:CrossFit OTG,
+				age:36,
+				height:72 in,
+				weight:230 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:572,
+				score:13060000,
+				scoreDisplay:306 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:b2177dcd22a8030b4eec,
+				scaled:0,
+				video:0,
+				breakdown:9 rounds +\n8 toes-to-bars\n10 clean & jerks,judge:Nick DiMatteo,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1388,
+				score:11100134,
+				scoreDisplay:9:46,
+				mobileScoreDisplay:,
+				scoreIdentifier:a394a9bab4f6da760648,
+				scaled:0,
+				video:0,
+				time:586,breakdown:110 reps\n277 lb.,judge:Nick DiMatteo,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:178,
+				score:12770134,
+				scoreDisplay:277 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:8fde2807dc7b0b8281c9,
+				scaled:0,
+				video:0,
+				breakdown:277 lb.,time:586,judge:Nick DiMatteo,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1062,
+				score:12200602,
+				scoreDisplay:220 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:7f8145946728c4c44efd,
+				scaled:0,
+				video:0,
+				time:238,breakdown:100 double-unders\n20 overhead squats\n100 double-unders,judge:Nick DiMatteo,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:2510,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1117,
+			overallScore:6777,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:963909,
+				competitorName:Jason Roach,
+				firstName:Jason,
+				lastName:Roach,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:18,
+				profession:0,
+				affiliateId:9646,
+				affiliateName:CrossFit Toms River,
+				age:37,
+				height:70 in,
+				weight:220 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1295,
+				score:12610000,
+				scoreDisplay:261 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:2e65e0a689521bc44118,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n5 toes-to-bars,judge:Ray Carney,affiliate:CrossFit Toms River,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:995,
+				score:11100197,
+				scoreDisplay:8:43,
+				mobileScoreDisplay:,
+				scoreIdentifier:7f274d848dce08738a11,
+				scaled:0,
+				video:0,
+				time:523,breakdown:110 reps\n237 lb.,judge:Gary Morrison,affiliate:CrossFit Toms River,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:625,
+				score:12370197,
+				scoreDisplay:237 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:0d239403ad8c4fd65099,
+				scaled:0,
+				video:0,
+				breakdown:237 lb.,time:523,judge:Gary Morrison,affiliate:CrossFit Toms River,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:2605,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:195,
+				score:11110018,
+				scoreDisplay:111 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:76b59298cdc14baf5204,
+				scaled:0,
+				video:0,
+				time:522,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n9 handstand push-ups\n21 deadlifts,judge:Ray Carney,affiliate:CrossFit Toms River,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1118,
+			overallScore:6782,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:565137,
+				competitorName:Daniel Dai,
+				firstName:Daniel,
+				lastName:Dai,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:c1ebd-P565137_2-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:39,
+				affiliateName:CrossFit Giant,
+				age:32,
+				height:68 in,
+				weight:165 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1175,
+				score:12670000,
+				scoreDisplay:267 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:1bf9f91c6aa14e250148,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n8 toes-to-bars\n3 clean & jerks,judge:Frank Gallo,affiliate:CrossFit Giant,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1287,
+				score:11100150,
+				scoreDisplay:9:30,
+				mobileScoreDisplay:,
+				scoreIdentifier:7f7b6f93cafd8e8027b0,
+				scaled:0,
+				video:0,
+				time:570,breakdown:110 reps\n190 lb.,judge:Eddie Mak,affiliate:CrossFit Giant,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1423,
+				score:11900150,
+				scoreDisplay:190 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:c15af24d429bee2d2101,
+				scaled:0,
+				video:0,
+				breakdown:190 lb.,time:570,judge:Eddie Mak,affiliate:CrossFit Giant,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1013,
+				score:12210441,
+				scoreDisplay:221 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:0a6ebe2a1fec53a40dcf,
+				scaled:0,
+				video:0,
+				time:399,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n1 ring muscle-ups,judge:Katherine Lefferts,affiliate:CrossFit Giant,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:818,
+				score:10750001,
+				scoreDisplay:75 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:10804eb19a370dbea66c,
+				scaled:0,
+				video:0,
+				time:539,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n3 deadlifts,judge:Crystal Matias,affiliate:CrossFit Giant,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1119,
+			overallScore:6783,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:501691,
+				competitorName:Nestor Balon,
+				firstName:Nestor,
+				lastName:Balon,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:6d668-P501691_2-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:8052,
+				affiliateName:CrossFit Northwood,
+				age:19,
+				height:70 in,
+				weight:160 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1152,
+				score:12680000,
+				scoreDisplay:268 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:f49b19a0f045a06105da,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n8 toes-to-bars\n4 clean & jerks,judge:Annie rogers,affiliate:CrossFit Northwood,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:870,
+				score:11100217,
+				scoreDisplay:8:23,
+				mobileScoreDisplay:,
+				scoreIdentifier:a8d34291424e5d35ca05,
+				scaled:0,
+				video:0,
+				time:503,breakdown:110 reps\n255 lb.,judge:Anne Rogers,affiliate:CrossFit Northwood,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:385,
+				score:12550217,
+				scoreDisplay:255 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:23512c4fb54eddd2044d,
+				scaled:0,
+				video:0,
+				breakdown:255 lb.,time:503,judge:Anne Rogers,affiliate:CrossFit Northwood,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:800,
+				score:12270570,
+				scoreDisplay:227 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:6942563169bed3227cd3,
+				scaled:0,
+				video:0,
+				time:270,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n7 ring muscle-ups,judge:Brittany Morrone,affiliate:CrossFit Northwood,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:2510,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1120,
+			overallScore:6784,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:187246,
+				competitorName:Richard Foster,
+				firstName:Richard,
+				lastName:Foster,
 				status:ACT,
 				bibId:,
 				gender:M,
@@ -2208,11 +2420,11 @@
 				regionId:11,
 				regionName:North East,
 				divisionId:1,
-				profession:0,
-				affiliateId:13901,
-				affiliateName:CrossFit Vae Victis,
-				age:26,
-				height:73 in,
+				profession:2,
+				affiliateId:10577,
+				affiliateName:Great White CrossFit,
+				age:29,
+				height:67 in,
 				weight:170 lb,
 				teamCaptain:0
 			},
@@ -2226,46 +2438,111 @@
 			[
 				{
 				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
+				rank:1547,
+				score:12430000,
+				scoreDisplay:243 reps,
 				mobileScoreDisplay:,
-				scoreIdentifier:c4be1f789ac0d4065f32,
+				scoreIdentifier:5f575120cc79781f5ae5,
 				scaled:0,
 				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Patrick Byrnes,affiliate:CrossFit Vae Victis,
+				breakdown:7 rounds +\n8 toes-to-bars\n10 clean & jerks\n1 calories,judge:Steven Ramos,affiliate:Great White CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1762,
+				score:11100073,
+				scoreDisplay:10:47,
+				mobileScoreDisplay:,
+				scoreIdentifier:6f4513a6aa2b3cc1b837,
+				scaled:0,
+				video:0,
+				time:647,breakdown:110 reps\n185 lb.,judge:Steven Ramos,affiliate:Great White CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1595,
+				score:11850073,
+				scoreDisplay:185 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:fe29fd8c3397ca39573a,
+				scaled:0,
+				video:0,
+				breakdown:185 lb.,time:647,judge:Steven Ramos,affiliate:Great White CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:629,
+				score:13340023,
+				scoreDisplay:334 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:7140756b9ce4b9b39faa,
+				scaled:0,
+				video:0,
+				time:817,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n12 ring muscle-ups\n100 double-unders\n2 snatches,judge:Steven Ramos,affiliate:Great White CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:733,
+				score:10840023,
+				scoreDisplay:84 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:cbb7a70203babf21ce43,
+				scaled:0,
+				video:0,
+				time:517,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n3 handstand push-ups,judge:Steven Ramos,affiliate:Great White CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:521,
+				score:10750000,
+				scoreDisplay:75 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:04a840cf51e587ac6bdc,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n15 thr.,judge:Steven Ramos,affiliate:Great White CrossFit,
 				heat:,
 				lane:
 				}
 
 			],
 
-			overallRank:1377,
-			overallScore:1377,
+			overallRank:1121,
+			overallScore:6787,
 			nextStage:
 		},
 		{
 			entrant:
 			{
-				competitorId:1163060,
-				competitorName:Mark Targett,
-				firstName:Mark,
-				lastName:Targett,
+				competitorId:927878,
+				competitorName:Michael DOrazio,
+				firstName:Michael,
+				lastName:DOrazio,
 				status:ACT,
 				bibId:,
 				gender:M,
-				profilePicS3key:4b4b6-P1163060_1-184.jpg,
+				profilePicS3key:pukie.png,
 				countryShortCode:,
 				regionalCode:4,
 				regionId:11,
 				regionName:North East,
-				divisionId:18,
-				profession:0,
-				affiliateId:19311,
-				affiliateName:Clamtown CrossFit,
-				age:39,
-				height:70 in,
-				weight:200 lb,
+				divisionId:1,
+				profession:4,
+				affiliateId:18566,
+				affiliateName:CrossFit 47,
+				age:30,
+				height:72 in,
+				weight:207 lb,
 				teamCaptain:0
 			},
 
@@ -2278,46 +2555,345 @@
 			[
 				{
 				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
+				rank:572,
+				score:13060000,
+				scoreDisplay:306 reps,
 				mobileScoreDisplay:,
-				scoreIdentifier:f229c4622e4be083f2c0,
+				scoreIdentifier:a8a5536acea5ec726fc9,
 				scaled:0,
 				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Robert Shertenlieb,affiliate:Clamtown CrossFit,
+				breakdown:9 rounds +\n8 toes-to-bars\n10 clean & jerks,judge:Erika Pugh,affiliate:CrossFit 47,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1036,
+				score:11100189,
+				scoreDisplay:8:51,
+				mobileScoreDisplay:,
+				scoreIdentifier:2e7cd9c7eaad56ed9029,
+				scaled:0,
+				video:0,
+				time:531,breakdown:110 reps\n220 lb.,judge:Eric Matlock,affiliate:CrossFit 47,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:941,
+				score:12200189,
+				scoreDisplay:220 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:01bd230edb80271c3407,
+				scaled:0,
+				video:0,
+				breakdown:220 lb.,time:531,judge:Eric Matlock,affiliate:CrossFit 47,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1506,
+				score:11800461,
+				scoreDisplay:180 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:25000f2c82d8226597b4,
+				scaled:0,
+				video:0,
+				time:379,breakdown:100 double-unders\n20 overhead squats\n60 double-unders,judge:Kyle Cocking,affiliate:CrossFit 47,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1665,
+				score:10230505,
+				scoreDisplay:23 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:9b98e508a1dfba7244bb,
+				scaled:0,
+				video:0,
+				time:35,breakdown:21 deadlifts\n2 handstand push-ups,judge:Joey Fogg,affiliate:CrossFit 47,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
 				heat:,
 				lane:
 				}
 
 			],
 
-			overallRank:1377,
-			overallScore:1377,
+			overallRank:1121,
+			overallScore:6787,
 			nextStage:
 		},
 		{
 			entrant:
 			{
-				competitorId:982044,
-				competitorName:David Lancellotti,
-				firstName:David,
-				lastName:Lancellotti,
+				competitorId:1356066,
+				competitorName:Kyle Patrick,
+				firstName:Kyle,
+				lastName:Patrick,
 				status:ACT,
 				bibId:,
 				gender:M,
-				profilePicS3key:91ab4-P982044_2-184.jpg,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:258,
+				affiliateId:0,
+				affiliateName:,
+				age:25,
+				height:70 in,
+				weight:180 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1278,
+				score:12620000,
+				scoreDisplay:262 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:a5905e77527be53c6f15,
+				scaled:0,
+				video:1,
+				breakdown:8 rounds +\n6 toes-to-bars,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:245,
+				score:11100328,
+				scoreDisplay:6:32,
+				mobileScoreDisplay:,
+				scoreIdentifier:9f727f391ec362055035,
+				scaled:0,
+				video:1,
+				time:392,breakdown:110 reps\n205 lb.,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1138,
+				score:12050328,
+				scoreDisplay:205 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:d9e2813b634e6910e3c3,
+				scaled:0,
+				video:1,
+				breakdown:205 lb.,time:392,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1449,
+				score:12200003,
+				scoreDisplay:220 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:64cb603761efd9cb7d16,
+				scaled:0,
+				video:1,
+				time:837,breakdown:100 double-unders\n20 overhead squats\n100 double-unders,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1615,
+				score:10260479,
+				scoreDisplay:26 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:caacb872e2135a4e369a,
+				scaled:0,
+				video:1,
+				time:61,breakdown:21 deadlifts\n5 handstand push-ups,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1123,
+			overallScore:6792,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:814131,
+				competitorName:Austen Eisenhart,
+				firstName:Austen,
+				lastName:Eisenhart,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:53d4c-P814131_1-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:10793,
+				affiliateName:CrossFit 643,
+				age:19,
+				height:71 in,
+				weight:170 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1175,
+				score:12670000,
+				scoreDisplay:267 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:a246e02f55004bce0799,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n8 toes-to-bars\n3 clean & jerks,judge:Susan Kun,affiliate:CrossFit Canmore,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:354,
+				score:11100303,
+				scoreDisplay:6:57,
+				mobileScoreDisplay:,
+				scoreIdentifier:53ab388f34666bfb1805,
+				scaled:0,
+				video:0,
+				time:417,breakdown:110 reps\n225 lb.,judge:Michele Barbara,affiliate:CrossFit 643,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:780,
+				score:12250303,
+				scoreDisplay:225 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:7e3a36cfc70fa6054bdb,
+				scaled:0,
+				video:0,
+				breakdown:225 lb.,time:417,judge:Michele Barbara,affiliate:CrossFit 643,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:908,
+				score:12240237,
+				scoreDisplay:224 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:104c38d00352f9255d8e,
+				scaled:0,
+				video:0,
+				time:603,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n4 ring muscle-ups,judge:Paul Eisenhart,affiliate:CrossFit 643,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:2510,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1124,
+			overallScore:6794,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:938929,
+				competitorName:Chris Szymkowiak,
+				firstName:Chris,
+				lastName:Szymkowiak,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:c0db7-P938929_3-184.jpg,
 				countryShortCode:,
 				regionalCode:4,
 				regionId:11,
 				regionName:North East,
 				divisionId:12,
 				profession:0,
-				affiliateId:2134,
-				affiliateName:CrossFit West Essex,
-				age:44,
-				height:75 in,
-				weight:200 lb,
+				affiliateId:296,
+				affiliateName:CrossFit Hamilton,
+				age:41,
+				height:67 in,
+				weight:147 lb,
 				teamCaptain:0
 			},
 
@@ -2330,22 +2906,1257 @@
 			[
 				{
 				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
+				rank:1627,
+				score:12390000,
+				scoreDisplay:239 reps,
 				mobileScoreDisplay:,
-				scoreIdentifier:3f71dcb21b6c3017060f,
+				scoreIdentifier:6b25e33898ecfedd85f2,
 				scaled:0,
 				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Kevin Yurchak,affiliate:CrossFit West Essex,
+				breakdown:7 rounds +\n8 toes-to-bars\n7 clean & jerks,judge:Joseph Dill,affiliate:CrossFit Hamilton,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1243,
+				score:11100157,
+				scoreDisplay:9:23,
+				mobileScoreDisplay:,
+				scoreIdentifier:7004ff78795742fc6a9a,
+				scaled:0,
+				video:0,
+				time:563,breakdown:110 reps\n175 lb.,judge:Joseph Dill,affiliate:CrossFit Hamilton,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1689,
+				score:11750157,
+				scoreDisplay:175 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:a38e88b6f47a7c5fb489,
+				scaled:0,
+				video:0,
+				breakdown:175 lb.,time:563,judge:Joseph Dill,affiliate:CrossFit Hamilton,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:975,
+				score:12220388,
+				scoreDisplay:222 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:a4039e3e3c47a8d568a2,
+				scaled:0,
+				video:0,
+				time:452,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n2 ring muscle-ups,judge:Joseph Dill,affiliate:CrossFit Hamilton,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:705,
+				score:10850041,
+				scoreDisplay:85 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:c79b1c028a5b1ad690fb,
+				scaled:0,
+				video:0,
+				time:499,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n4 handstand push-ups,judge:Joseph Dill,affiliate:CrossFit Hamilton,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:555,
+				score:10720000,
+				scoreDisplay:72 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:037103e63cb0434c3323,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n12 thr.,judge:Joseph Dill,affiliate:CrossFit Hamilton,
 				heat:,
 				lane:
 				}
 
 			],
 
-			overallRank:1377,
-			overallScore:1377,
+			overallRank:1124,
+			overallScore:6794,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:20243,
+				competitorName:Natty Bandasak,
+				firstName:Natty,
+				lastName:Bandasak,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:95acd-P20243_5-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:32,
+				affiliateId:0,
+				affiliateName:,
+				age:29,
+				height:67 in,
+				weight:155 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1374,
+				score:12570000,
+				scoreDisplay:257 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:da72fbfc52cc7c408e67,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n1 toes-to-bars,judge:Gregg Arsenuk,affiliate:CrossFit Montclair,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1166,
+				score:11100168,
+				scoreDisplay:9:12,
+				mobileScoreDisplay:,
+				scoreIdentifier:e5f16cada2a4be2e0c22,
+				scaled:0,
+				video:0,
+				time:552,breakdown:110 reps\n185 lb.,judge:Marquan Jones,affiliate:CrossFit Roseland,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1511,
+				score:11850168,
+				scoreDisplay:185 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:9a52e844098d9e6a57b5,
+				scaled:0,
+				video:0,
+				breakdown:185 lb.,time:552,judge:Marquan Jones,affiliate:CrossFit Roseland,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:842,
+				score:12260471,
+				scoreDisplay:226 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:096ad46c3f439556408c,
+				scaled:0,
+				video:0,
+				time:369,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n6 ring muscle-ups,judge:brian horwath,affiliate:CrossFit Roseland,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:834,
+				score:10710333,
+				scoreDisplay:71 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:a6cb14fd84c9d32c853a,
+				scaled:0,
+				video:0,
+				time:207,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n14 handstand push-ups,judge:Andrea Lisowski,affiliate:CrossFit Roseland,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1124,
+			overallScore:6794,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:356899,
+				competitorName:Connor Morris,
+				firstName:Connor,
+				lastName:Morris,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:1369a-P356899_1-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:1552,
+				affiliateName:CrossFit SOAR,
+				age:23,
+				height:72 in,
+				weight:185 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:441,
+				score:13200000,
+				scoreDisplay:320 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:fd3d151630baf5d95065,
+				scaled:0,
+				video:0,
+				breakdown:10 rounds +\n0 toes-to-bars,judge:Dave Whitson,affiliate:CrossFit SOAR,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1110,
+				score:11100176,
+				scoreDisplay:9:04,
+				mobileScoreDisplay:,
+				scoreIdentifier:fb8521b53df4897b7c43,
+				scaled:0,
+				video:0,
+				time:544,breakdown:110 reps\n235 lb.,judge:Dave Whitson,affiliate:CrossFit SOAR,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:678,
+				score:12350176,
+				scoreDisplay:235 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:68c3696202a32544ac8a,
+				scaled:0,
+				video:0,
+				breakdown:235 lb.,time:544,judge:Dave Whitson,affiliate:CrossFit SOAR,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:989,
+				score:12210780,
+				scoreDisplay:221 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:ead2bbf709aa21027993,
+				scaled:0,
+				video:0,
+				time:60,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n1 ring muscle-ups,judge:Dave Whitson,affiliate:CrossFit SOAR,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:2510,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1127,
+			overallScore:6795,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:721339,
+				competitorName:Joseph K Menendez,
+				firstName:Joseph K,
+				lastName:Menendez,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:24411-P721339_1-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:4,
+				affiliateId:3832,
+				affiliateName:CrossFit Steam,
+				age:28,
+				height:69 in,
+				weight:160 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:547,
+				score:13090000,
+				scoreDisplay:309 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:f735a2b0bfc98923e0c2,
+				scaled:0,
+				video:0,
+				breakdown:9 rounds +\n8 toes-to-bars\n10 clean & jerks\n3 calories,judge:Patrick OKeefe,affiliate:CrossFit Steam,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:940,
+				score:11100206,
+				scoreDisplay:8:34,
+				mobileScoreDisplay:,
+				scoreIdentifier:4bfc7e008795c2167244,
+				scaled:0,
+				video:0,
+				time:514,breakdown:110 reps\n185 lb.,judge:Patrick OKeefe,affiliate:CrossFit Steam,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1493,
+				score:11850206,
+				scoreDisplay:185 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:e55e22d3f5888ef78e71,
+				scaled:0,
+				video:0,
+				breakdown:185 lb.,time:514,judge:Patrick OKeefe,affiliate:CrossFit Steam,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:245,
+				score:14910108,
+				scoreDisplay:491 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:03304239f71ce3664e93,
+				scaled:0,
+				video:0,
+				time:732,breakdown:1 round +\n27 double-unders,judge:Patrick OKeefe,affiliate:CrossFit Steam,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:2510,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1128,
+			overallScore:6802,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:532125,
+				competitorName:Alex Rojas,
+				firstName:Alex,
+				lastName:Rojas,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:bb18d-P532125_2-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:128,
+				affiliateId:8047,
+				affiliateName:CrossFit Paramus,
+				age:28,
+				height:,
+				weight:190 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:703,
+				score:12970000,
+				scoreDisplay:297 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:1eb0f558cc429cb8796d,
+				scaled:0,
+				video:0,
+				breakdown:9 rounds +\n8 toes-to-bars\n1 clean & jerks,judge:Deb Myers,affiliate:CrossFit Paramus,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1131,
+				score:11100173,
+				scoreDisplay:9:07,
+				mobileScoreDisplay:,
+				scoreIdentifier:82120be5db2d7c525b89,
+				scaled:0,
+				video:0,
+				time:547,breakdown:110 reps\n235 lb.,judge:Deb Myers,affiliate:CrossFit Paramus,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:679,
+				score:12350173,
+				scoreDisplay:235 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:080e012a52b212415a50,
+				scaled:0,
+				video:0,
+				breakdown:235 lb.,time:547,judge:Deb Myers,affiliate:CrossFit Paramus,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:2605,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:620,
+				score:10890079,
+				scoreDisplay:89 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:f732636a12b8d57b0fff,
+				scaled:0,
+				video:0,
+				time:461,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n8 handstand push-ups,judge:Deb Myers,affiliate:CrossFit Paramus,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1129,
+			overallScore:6805,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:1103204,
+				competitorName:Joe Kittridge,
+				firstName:Joe,
+				lastName:Kittridge,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:2422,
+				affiliateName:CrossFit Veracity,
+				age:28,
+				height:,
+				weight:153 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:716,
+				score:12960000,
+				scoreDisplay:296 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:089fac78424697f04746,
+				scaled:0,
+				video:0,
+				breakdown:9 rounds +\n8 toes-to-bars,judge:Romeo Delacruz jr.,affiliate:CrossFit Veracity,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:320,
+				score:11100310,
+				scoreDisplay:6:50,
+				mobileScoreDisplay:,
+				scoreIdentifier:3e3d22cad36f8426ccc5,
+				scaled:0,
+				video:0,
+				time:410,breakdown:110 reps\n187 lb.,judge:Matthew Molski,affiliate:CrossFit Veracity,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1434,
+				score:11870310,
+				scoreDisplay:187 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:8fcbc03f5689d73ecc19,
+				scaled:0,
+				video:0,
+				breakdown:187 lb.,time:410,judge:Matthew Molski,affiliate:CrossFit Veracity,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:2605,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:666,
+				score:10860147,
+				scoreDisplay:86 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:d37aea3ce23a2698cac4,
+				scaled:0,
+				video:0,
+				time:393,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n5 handstand push-ups,judge:Jason Gold,affiliate:CrossFit Veracity,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1130,
+			overallScore:6808,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:1236940,
+				competitorName:Joseph Ambrose,
+				firstName:Joseph,
+				lastName:Ambrose,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:128,
+				affiliateId:7968,
+				affiliateName:CrossFit GSP,
+				age:22,
+				height:,
+				weight:,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1570,
+				score:12420000,
+				scoreDisplay:242 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:e4e25cc859501c1c4a30,
+				scaled:0,
+				video:0,
+				breakdown:7 rounds +\n8 toes-to-bars\n10 clean & jerks,judge:Eric Nowoslawski,affiliate:CrossFit GSP,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:451,
+				score:11100282,
+				scoreDisplay:7:18,
+				mobileScoreDisplay:,
+				scoreIdentifier:f2cbe0a3a387446f6b3a,
+				scaled:0,
+				video:0,
+				time:438,breakdown:110 reps\n215 lb.,judge:Eric Nowoslawski,affiliate:CrossFit GSP,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:989,
+				score:12150282,
+				scoreDisplay:215 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:daf06e5c866d921a7162,
+				scaled:0,
+				video:0,
+				breakdown:215 lb.,time:438,judge:Eric Nowoslawski,affiliate:CrossFit GSP,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:2605,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:718,
+				score:10840070,
+				scoreDisplay:84 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:b6a01df89d3c49825680,
+				scaled:0,
+				video:0,
+				time:470,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n3 handstand push-ups,judge:Robin Jaramillo,affiliate:CrossFit GSP,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:476,
+				score:10780000,
+				scoreDisplay:78 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:bb20e0496fa1f5f6c11e,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n15 thr. 3 PU,judge:Robin Jaramillo,affiliate:CrossFit GSP,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1131,
+			overallScore:6809,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:1277536,
+				competitorName:Calvin Certuche,
+				firstName:Calvin,
+				lastName:Certuche,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:16968,
+				affiliateName:CrossFit Skylands,
+				age:29,
+				height:,
+				weight:,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1175,
+				score:12670000,
+				scoreDisplay:267 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:aba830d7ea9eaa7b4b80,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n8 toes-to-bars\n3 clean & jerks,judge:Sharon Schultz,affiliate:CrossFit Skylands,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1050,
+				score:11100187,
+				scoreDisplay:8:53,
+				mobileScoreDisplay:,
+				scoreIdentifier:e6f4ed3b568145343832,
+				scaled:0,
+				video:0,
+				time:533,breakdown:110 reps\n185 lb.,judge:Melissa Geaney,affiliate:CrossFit Skylands,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1499,
+				score:11850187,
+				scoreDisplay:185 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:062c159ed53df6b3d4c9,
+				scaled:0,
+				video:0,
+				breakdown:185 lb.,time:533,judge:Melissa Geaney,affiliate:CrossFit Skylands,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:748,
+				score:12300000,
+				scoreDisplay:230 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:ad135c0a1cbb1afd417f,
+				scaled:0,
+				video:0,
+				time:840,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n10 ring muscle-ups,judge:Melissa Geaney,affiliate:CrossFit Skylands,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1286,
+				score:10450000,
+				scoreDisplay:45 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:30cd08498bca8231b502,
+				scaled:0,
+				video:0,
+				time:540,breakdown:21 deadlifts\n21 handstand push-ups\n3 deadlifts,judge:Melissa Geaney,affiliate:CrossFit Skylands,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1132,
+			overallScore:6825,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:46270,
+				competitorName:Joe Fraser,
+				firstName:Joe,
+				lastName:Fraser,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:99f79-P46270_3-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:6290,
+				affiliateName:Iron CrossFit North Brunswick,
+				age:30,
+				height:68 in,
+				weight:165 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:682,
+				score:12990000,
+				scoreDisplay:299 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:dc9b8a8024d10a0824a7,
+				scaled:0,
+				video:0,
+				breakdown:9 rounds +\n8 toes-to-bars\n3 clean & jerks,judge:Keith Sanchez,affiliate:Iron CrossFit North Brunswick,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1273,
+				score:11100152,
+				scoreDisplay:9:28,
+				mobileScoreDisplay:,
+				scoreIdentifier:fed38b4d302569bf2ff9,
+				scaled:0,
+				video:0,
+				time:568,breakdown:110 reps\n227 lb.,judge:Hamilton Villamor,affiliate:Iron CrossFit North Brunswick,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:755,
+				score:12270152,
+				scoreDisplay:227 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:8f8a57be694755a9a556,
+				scaled:0,
+				video:0,
+				breakdown:227 lb.,time:568,judge:Hamilton Villamor,affiliate:Iron CrossFit North Brunswick,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:541,
+				score:13810093,
+				scoreDisplay:381 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:34bfd5e63a0f33175f6a,
+				scaled:0,
+				video:0,
+				time:747,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n12 ring muscle-ups\n100 double-unders\n20 snatches\n29 double-unders,judge:Ed Kurczeski,affiliate:Iron CrossFit North Brunswick,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:2510,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1133,
+			overallScore:6828,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:1243779,
+				competitorName:Matthew Sprang,
+				firstName:Matthew,
+				lastName:Sprang,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:12,
+				profession:0,
+				affiliateId:10793,
+				affiliateName:CrossFit 643,
+				age:40,
+				height:,
+				weight:,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1851,
+				score:12240000,
+				scoreDisplay:224 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:184c954c27416d683db7,
+				scaled:0,
+				video:0,
+				breakdown:7 rounds +\n0 toes-to-bars,judge:Jill Melchiorre,affiliate:CrossFit 643,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1192,
+				score:11100165,
+				scoreDisplay:9:15,
+				mobileScoreDisplay:,
+				scoreIdentifier:f12f875ad2e8c68ab483,
+				scaled:0,
+				video:0,
+				time:555,breakdown:110 reps\n175 lb.,judge:Jill Melchiorre,affiliate:CrossFit 643,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1684,
+				score:11750165,
+				scoreDisplay:175 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:6affe8bcea67ca43cec2,
+				scaled:0,
+				video:0,
+				breakdown:,judge:Jill Melchiorre,affiliate:CrossFit 643,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:974,
+				score:12220404,
+				scoreDisplay:222 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:05c662c0f47c5fa2818b,
+				scaled:0,
+				video:0,
+				time:436,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n2 ring muscle-ups,judge:Michelle Barbara,affiliate:CrossFit 643,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:578,
+				score:10900134,
+				scoreDisplay:90 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:32464b136a0ad9e9f8f1,
+				scaled:0,
+				video:0,
+				time:406,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n9 handstand push-ups,judge:Michele Barbara,affiliate:CrossFit 643,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:549,
+				score:10730000,
+				scoreDisplay:73 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:cb2c21052b93d216a86f,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n13 thr.,judge:Leigh Simpson,affiliate:CrossFit 643,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1133,
+			overallScore:6828,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:110114,
+				competitorName:Mike Landberg,
+				firstName:Mike,
+				lastName:Landberg,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:12,
+				profession:0,
+				affiliateId:337,
+				affiliateName:CrossFit OTG,
+				age:40,
+				height:69 in,
+				weight:195 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1397,
+				score:12560000,
+				scoreDisplay:256 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:feea25ede2b6ac9c92bd,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n0 toes-to-bars,judge:Timothy Friel,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1516,
+				score:11100115,
+				scoreDisplay:10:05,
+				mobileScoreDisplay:,
+				scoreIdentifier:e4297b57b985db9c3a6d,
+				scaled:0,
+				video:0,
+				time:605,breakdown:110 reps\n205 lb.,judge:Justin Kent,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1250,
+				score:12050115,
+				scoreDisplay:205 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:e7798583753bc1cba868,
+				scaled:0,
+				video:0,
+				breakdown:205 lb.,time:605,judge:Justin Kent,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:597,
+				score:13450055,
+				scoreDisplay:345 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:010906726c993967e3cb,
+				scaled:0,
+				video:0,
+				time:785,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n12 ring muscle-ups\n100 double-unders\n13 snatches,judge:Tim Friel,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1001,
+				score:10650228,
+				scoreDisplay:65 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:801e4866c14fed78bc20,
+				scaled:0,
+				video:0,
+				time:312,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n8 handstand push-ups,judge:David Cerrone,affiliate:CrossFit OTG,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1133,
+			overallScore:6828,
 			nextStage:
 		},
 		{
@@ -2382,7 +4193,7 @@
 			[
 				{
 				ordinal:1,
-				rank:1377,
+				rank:1374,
 				score:12570000,
 				scoreDisplay:257 reps,
 				mobileScoreDisplay:,
@@ -2393,139 +4204,100 @@
 				heat:,
 				lane:
 				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:960379,
-				competitorName:Lenin Campos,
-				firstName:Lenin,
-				lastName:Campos,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:cc9be-P960379_1-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:1,
-				profession:128,
-				affiliateId:39,
-				affiliateName:CrossFit Giant,
-				age:24,
-				height:66 in,
-				weight:195 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
+,				{
+				ordinal:2,
+				rank:870,
+				score:11100217,
+				scoreDisplay:8:23,
 				mobileScoreDisplay:,
-				scoreIdentifier:44b7fa136d99529fc531,
+				scoreIdentifier:1c3103012c8908b84e7e,
 				scaled:0,
 				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Katherine Lefferts,affiliate:CrossFit Giant,
+				time:503,breakdown:110 reps\n225 lb.,judge:Christopher Ascari,affiliate:CrossFit Versus,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:835,
+				score:12250217,
+				scoreDisplay:225 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:f5a3b6abe6e79913cd7a,
+				scaled:0,
+				video:0,
+				breakdown:225 lb.,time:503,judge:Christopher Ascari,affiliate:CrossFit Versus,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1148,
+				score:12200491,
+				scoreDisplay:220 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:88af9c11d74a06f2edec,
+				scaled:0,
+				video:0,
+				time:349,breakdown:100 double-unders\n20 overhead squats\n100 double-unders,judge:Christopher Ascari,affiliate:CrossFit Versus,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1545,
+				score:10290497,
+				scoreDisplay:29 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:e553954faeda2a261b16,
+				scaled:0,
+				video:0,
+				time:43,breakdown:21 deadlifts\n8 handstand push-ups,judge:Tyler Adams,affiliate:CrossFit Versus,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
 				heat:,
 				lane:
 				}
 
 			],
 
-			overallRank:1377,
-			overallScore:1377,
+			overallRank:1136,
+			overallScore:6839,
 			nextStage:
 		},
 		{
 			entrant:
 			{
-				competitorId:1226409,
-				competitorName:Riccardo Amato,
-				firstName:Riccardo,
-				lastName:Amato,
+				competitorId:94040,
+				competitorName:Brian Vint,
+				firstName:Brian,
+				lastName:Vint,
 				status:ACT,
 				bibId:,
 				gender:M,
-				profilePicS3key:978cd-P1226409_3-184.jpg,
-				countryShortCode:,
-				regionalCode:4,
-				regionId:11,
-				regionName:North East,
-				divisionId:3,
-				profession:0,
-				affiliateId:337,
-				affiliateName:CrossFit OTG,
-				age:46,
-				height:69 in,
-				weight:184 lb,
-				teamCaptain:0
-			},
-
-			ui:
-			{
-				highlight:false
-			},
-
-			scores:
-			[
-				{
-				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
-				mobileScoreDisplay:,
-				scoreIdentifier:713931154740a136d7f2,
-				scaled:0,
-				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Eric Schloesser,affiliate:CrossFit OTG,
-				heat:,
-				lane:
-				}
-
-			],
-
-			overallRank:1377,
-			overallScore:1377,
-			nextStage:
-		},
-		{
-			entrant:
-			{
-				competitorId:245952,
-				competitorName:Art Nitkowski,
-				firstName:Art,
-				lastName:Nitkowski,
-				status:ACT,
-				bibId:,
-				gender:M,
-				profilePicS3key:25fe7-P245952_2-184.jpg,
+				profilePicS3key:03792-P94040_3-184.jpg,
 				countryShortCode:,
 				regionalCode:4,
 				regionId:11,
 				regionName:North East,
 				divisionId:18,
 				profession:0,
-				affiliateId:2021,
-				affiliateName:CrossFit 908,
-				age:38,
-				height:72 in,
-				weight:162 lb,
+				affiliateId:11542,
+				affiliateName:Long Branch CrossFit,
+				age:35,
+				height:69 in,
+				weight:170 lb,
 				teamCaptain:0
 			},
 
@@ -2538,46 +4310,111 @@
 			[
 				{
 				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
+				rank:1101,
+				score:12720000,
+				scoreDisplay:272 reps,
 				mobileScoreDisplay:,
-				scoreIdentifier:10ca3981d25cc3c0cbd3,
+				scoreIdentifier:3c02cee6f88ec6b74c5e,
 				scaled:0,
 				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:Cathy Lopez,affiliate:CrossFit 908,
+				breakdown:8 rounds +\n8 toes-to-bars\n8 clean & jerks,judge:Mark Ziolkowski,affiliate:Long Branch CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1338,
+				score:11100142,
+				scoreDisplay:9:38,
+				mobileScoreDisplay:,
+				scoreIdentifier:09420738d42a30a456ab,
+				scaled:0,
+				video:0,
+				time:578,breakdown:110 reps\n195 lb.,judge:Kristin Kaschak,affiliate:Long Branch CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1367,
+				score:11950142,
+				scoreDisplay:195 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:c152de9002a05a576314,
+				scaled:0,
+				video:0,
+				breakdown:195 lb.,time:578,judge:Kristin Kaschak,affiliate:Long Branch CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:741,
+				score:12300367,
+				scoreDisplay:230 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:58cd90e5420c3cee4658,
+				scaled:0,
+				video:0,
+				time:473,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n10 ring muscle-ups,judge:Rebecca Beardsley,affiliate:Long Branch CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1238,
+				score:10580012,
+				scoreDisplay:58 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:1153b72cb9e7b712788e,
+				scaled:0,
+				video:0,
+				time:528,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n1 handstand push-ups,judge:Alexandra Rodriguez,affiliate:Long Branch CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
 				heat:,
 				lane:
 				}
 
 			],
 
-			overallRank:1377,
-			overallScore:1377,
+			overallRank:1137,
+			overallScore:6852,
 			nextStage:
 		},
 		{
 			entrant:
 			{
-				competitorId:689850,
-				competitorName:Tom Lanigan,
-				firstName:Tom,
-				lastName:Lanigan,
+				competitorId:1087301,
+				competitorName:Gary Tubertini,
+				firstName:Gary,
+				lastName:Tubertini,
 				status:ACT,
 				bibId:,
 				gender:M,
-				profilePicS3key:98b74-P689850_1-184.jpg,
+				profilePicS3key:pukie.png,
 				countryShortCode:,
 				regionalCode:4,
 				regionId:11,
 				regionName:North East,
-				divisionId:1,
+				divisionId:12,
 				profession:0,
-				affiliateId:296,
-				affiliateName:CrossFit Hamilton,
-				age:28,
-				height:64 in,
-				weight:180 lb,
+				affiliateId:16394,
+				affiliateName:CrossFit Off the Grid,
+				age:40,
+				height:69 in,
+				weight:173 lb,
 				teamCaptain:0
 			},
 
@@ -2590,22 +4427,87 @@
 			[
 				{
 				ordinal:1,
-				rank:1377,
-				score:12570000,
-				scoreDisplay:257 reps,
+				rank:1101,
+				score:12720000,
+				scoreDisplay:272 reps,
 				mobileScoreDisplay:,
-				scoreIdentifier:94416887814366e832a3,
+				scoreIdentifier:0a7321fc802e60d59f0a,
 				scaled:0,
 				video:0,
-				breakdown:8 rounds +\n1 toes-to-bars,judge:David Bonanni,affiliate:CrossFit Hamilton,
+				breakdown:8 rounds +\n8 toes-to-bars\n8 clean & jerks,judge:Sean McAvinue,affiliate:CrossFit Off the Grid,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1292,
+				score:11100149,
+				scoreDisplay:9:31,
+				mobileScoreDisplay:,
+				scoreIdentifier:00dde5e3d650bae43dd4,
+				scaled:0,
+				video:0,
+				time:571,breakdown:110 reps\n185 lb.,judge:Joseph Rowson,affiliate:CrossFit Off the Grid,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1528,
+				score:11850149,
+				scoreDisplay:185 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:eea4089aa45e9a47c777,
+				scaled:0,
+				video:0,
+				breakdown:185 lb.,time:571,judge:Joseph Rowson,affiliate:CrossFit Off the Grid,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1000,
+				score:12210502,
+				scoreDisplay:221 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:6d2d78290cf571776207,
+				scaled:0,
+				video:0,
+				time:338,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n1 ring muscle-ups,judge:Sarah Biebel,affiliate:CrossFit Off the Grid,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:866,
+				score:10700264,
+				scoreDisplay:70 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:8c90fc16cedc8e834bd4,
+				scaled:0,
+				video:0,
+				time:276,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n13 handstand push-ups,judge:Sean McAvinue,affiliate:CrossFit Off the Grid,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
 				heat:,
 				lane:
 				}
 
 			],
 
-			overallRank:1377,
-			overallScore:1377,
+			overallRank:1138,
+			overallScore:6854,
 			nextStage:
 		},
 		{
@@ -2642,7 +4544,7 @@
 			[
 				{
 				ordinal:1,
-				rank:1400,
+				rank:1397,
 				score:12560000,
 				scoreDisplay:256 reps,
 				mobileScoreDisplay:,
@@ -2653,11 +4555,1363 @@
 				heat:,
 				lane:
 				}
+,				{
+				ordinal:2,
+				rank:181,
+				score:11100348,
+				scoreDisplay:6:12,
+				mobileScoreDisplay:,
+				scoreIdentifier:56c8548056f9423ad99e,
+				scaled:0,
+				video:0,
+				time:372,breakdown:110 reps\n253 lb.,judge:Steve Cook,affiliate:CrossFit Chalk Print,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:399,
+				score:12530348,
+				scoreDisplay:253 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:a6841c32d6ac6ddffd07,
+				scaled:0,
+				video:0,
+				breakdown:253 lb.,time:372,judge:Steve Cook,affiliate:CrossFit Chalk Print,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:2605,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1210,
+				score:10590023,
+				scoreDisplay:59 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:eced6b3e707dc55f0074,
+				scaled:0,
+				video:0,
+				time:517,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n2 handstand push-ups,judge:Vincent Terry,affiliate:CrossFit Chalk Print,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
 
 			],
 
-			overallRank:1400,
-			overallScore:1400,
+			overallRank:1139,
+			overallScore:6859,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:27524,
+				competitorName:Kyle Martucci,
+				firstName:Kyle,
+				lastName:Martucci,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:12,
+				profession:2,
+				affiliateId:411,
+				affiliateName:JSA CrossFit,
+				age:44,
+				height:,
+				weight:210 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1901,
+				score:12210000,
+				scoreDisplay:221 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:5b0ef75e5901741bb31b,
+				scaled:0,
+				video:0,
+				breakdown:6 rounds +\n8 toes-to-bars\n10 clean & jerks\n11 calories,judge:Skip Chapman,affiliate:JSA CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1808,
+				score:11100063,
+				scoreDisplay:10:57,
+				mobileScoreDisplay:,
+				scoreIdentifier:1d58b4dc10dd266396d5,
+				scaled:0,
+				video:0,
+				time:657,breakdown:110 reps\n225 lb.,judge:Brody longo,affiliate:JSA CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:911,
+				score:12250063,
+				scoreDisplay:225 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:32ab25cee41ff5972489,
+				scaled:0,
+				video:0,
+				breakdown:225 lb.,time:657,judge:Brody longo,affiliate:JSA CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1203,
+				score:12200426,
+				scoreDisplay:220 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:25b46ed07f88dca58c73,
+				scaled:0,
+				video:0,
+				time:414,breakdown:100 double-unders\n20 overhead squats\n100 double-unders,judge:Brody longo,affiliate:JSA CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:470,
+				score:10950140,
+				scoreDisplay:95 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:58ec07d27550437c154c,
+				scaled:0,
+				video:0,
+				time:400,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n9 handstand push-ups\n5 deadlifts,judge:Brody longo,affiliate:JSA CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:568,
+				score:10710000,
+				scoreDisplay:71 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:0f17ea67a72bf488a7ac,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n11 thr.,judge:Christian Ruff,affiliate:JSA CrossFit,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1140,
+			overallScore:6861,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:458606,
+				competitorName:Michael Gerald,
+				firstName:Michael,
+				lastName:Gerald,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:eb26f-P458606_2-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:3,
+				profession:0,
+				affiliateId:5332,
+				affiliateName:CrossFit Bison,
+				age:45,
+				height:67 in,
+				weight:159 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1674,
+				score:12360000,
+				scoreDisplay:236 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:9576346bcb64956dd1ad,
+				scaled:0,
+				video:0,
+				breakdown:7 rounds +\n8 toes-to-bars\n4 clean & jerks,judge:Terri Wiatrak,affiliate:CrossFit Bison,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1499,
+				score:11100118,
+				scoreDisplay:10:02,
+				mobileScoreDisplay:,
+				scoreIdentifier:46e441884ae79fc80a77,
+				scaled:0,
+				video:0,
+				time:602,breakdown:110 reps\n185 lb.,judge:Tehillah Mornings,affiliate:CrossFit Bison,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1561,
+				score:11850118,
+				scoreDisplay:185 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:3889f97a605528a82ddc,
+				scaled:0,
+				video:0,
+				breakdown:185 lb.,time:602,judge:Tehillah Mornings,affiliate:CrossFit Bison,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:715,
+				score:12310449,
+				scoreDisplay:231 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:d720b0efe7f0847e112b,
+				scaled:0,
+				video:0,
+				time:391,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n11 ring muscle-ups,judge:David Fink,affiliate:CrossFit Bison,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1147,
+				score:10610054,
+				scoreDisplay:61 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:4dcdb162f64dff99d380,
+				scaled:0,
+				video:0,
+				time:486,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n4 handstand push-ups,judge:Sam Rhee,affiliate:CrossFit Bison,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:268,
+				score:10900000,
+				scoreDisplay:90 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:4f951128b7a85e1c2d16,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n15 thr. 15 PU,judge:Sam Rhee,affiliate:CrossFit Bison,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1141,
+			overallScore:6864,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:148676,
+				competitorName:Jake Carrion,
+				firstName:Jake,
+				lastName:Carrion,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:1ab49-P148676_2-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:2021,
+				affiliateName:CrossFit 908,
+				age:32,
+				height:71 in,
+				weight:208 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:370,
+				score:13260000,
+				scoreDisplay:326 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:bd425df8d345fd777f82,
+				scaled:0,
+				video:0,
+				breakdown:10 rounds +\n6 toes-to-bars,judge:Ron Protokowicz,affiliate:CrossFit 908,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:260,
+				score:11100323,
+				scoreDisplay:6:37,
+				mobileScoreDisplay:,
+				scoreIdentifier:06a0638a9a13ac58cbce,
+				scaled:0,
+				video:0,
+				time:397,breakdown:110 reps\n310 lb.,judge:Sinan Ozyemisci,affiliate:CrossFit 908,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:55,
+				score:13100323,
+				scoreDisplay:310 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:54574a12de95e5cc9701,
+				scaled:0,
+				video:0,
+				breakdown:310 lb.,time:397,judge:Sinan Ozyemisci,affiliate:CrossFit 908,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:2605,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:2510,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1142,
+			overallScore:6867,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:1333610,
+				competitorName:Chris Santalucia,
+				firstName:Chris,
+				lastName:Santalucia,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:12,
+				profession:0,
+				affiliateId:16820,
+				affiliateName:CrossFit Roseland,
+				age:44,
+				height:,
+				weight:168 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:572,
+				score:13060000,
+				scoreDisplay:306 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:c7f96c453f3e6cb54b94,
+				scaled:0,
+				video:0,
+				breakdown:9 rounds +\n8 toes-to-bars\n10 clean & jerks,judge:Troy Cathey,affiliate:CrossFit Roseland,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:497,
+				score:11100274,
+				scoreDisplay:7:26,
+				mobileScoreDisplay:,
+				scoreIdentifier:e400643cadf4b2344035,
+				scaled:0,
+				video:0,
+				time:446,breakdown:110 reps\n175 lb.,judge:Joe Passalaqua,affiliate:CrossFit Roseland,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1669,
+				score:11750274,
+				scoreDisplay:175 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:7b14cdd507f9bd2189dd,
+				scaled:0,
+				video:0,
+				breakdown:175 lb.,time:446,judge:Joe Passalaqua,affiliate:CrossFit Roseland,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:2605,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:457,
+				score:10960000,
+				scoreDisplay:96 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:132296144a88c9c8a765,
+				scaled:0,
+				video:0,
+				time:540,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n9 handstand push-ups\n6 deadlifts,judge:Victoria Caruso,affiliate:CrossFit Roseland,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1142,
+			overallScore:6867,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:30846,
+				competitorName:Armando Mendoza,
+				firstName:Armando,
+				lastName:Mendoza,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:8c23c-P30846_2-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:2,
+				affiliateId:2134,
+				affiliateName:CrossFit West Essex,
+				age:30,
+				height:67 in,
+				weight:187 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1203,
+				score:12650000,
+				scoreDisplay:265 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:acd819cdbca65068adf8,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n8 toes-to-bars\n1 clean & jerks,judge:Kevin Yurchak,affiliate:CrossFit West Essex,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1489,
+				score:11100120,
+				scoreDisplay:10:00,
+				mobileScoreDisplay:,
+				scoreIdentifier:39df3d5e7fb75c582d06,
+				scaled:0,
+				video:0,
+				time:600,breakdown:110 reps\n215 lb.,judge:Kevin Yurchak,affiliate:CrossFit West Essex,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1049,
+				score:12150120,
+				scoreDisplay:215 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:850e0b5b0d43cd92cf17,
+				scaled:0,
+				video:0,
+				breakdown:215 lb.,time:600,judge:Kevin Yurchak,affiliate:CrossFit West Essex,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1148,
+				score:12200491,
+				scoreDisplay:220 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:8c88b25b73b9dfb37a1a,
+				scaled:0,
+				video:0,
+				time:349,breakdown:100 double-unders\n20 overhead squats\n100 double-unders,judge:Kevin Yurchak,affiliate:CrossFit West Essex,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:913,
+				score:10680301,
+				scoreDisplay:68 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:d2d9534e71fa50dd1929,
+				scaled:0,
+				video:0,
+				time:239,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n11 handstand push-ups,judge:Kevin Yurchak,affiliate:CrossFit West Essex,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1144,
+			overallScore:6869,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:114236,
+				competitorName:Joe Maderazo,
+				firstName:Joe,
+				lastName:Maderazo,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:b4b8e-P114236_3-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:3545,
+				affiliateName:CrossFit Stealth,
+				age:33,
+				height:65 in,
+				weight:135 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:2005,
+				score:12080000,
+				scoreDisplay:208 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:034947e1272c9fb437cd,
+				scaled:0,
+				video:0,
+				breakdown:6 rounds +\n8 toes-to-bars\n8 clean & jerks,judge:John Leonardis,affiliate:CrossFit Stealth,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1061,
+				score:11100185,
+				scoreDisplay:8:55,
+				mobileScoreDisplay:,
+				scoreIdentifier:5bf0e221b0d16d4fc4be,
+				scaled:0,
+				video:0,
+				time:535,breakdown:110 reps\n155 lb.,judge:Daniel Ungarten,affiliate:CrossFit MouseTrap,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1866,
+				score:11550185,
+				scoreDisplay:155 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:5139eb14de35ed24821e,
+				scaled:0,
+				video:0,
+				breakdown:155 lb.,time:535,judge:Daniel Ungarten,affiliate:CrossFit MouseTrap,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:631,
+				score:13340006,
+				scoreDisplay:334 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:83f05faed05a275d70ed,
+				scaled:0,
+				video:0,
+				time:834,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n12 ring muscle-ups\n100 double-unders\n2 snatches,judge:Pam Lim,affiliate:CrossFit Stealth,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:707,
+				score:10850029,
+				scoreDisplay:85 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:b96540ecba590fe82ed4,
+				scaled:0,
+				video:0,
+				time:511,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n4 handstand push-ups,judge:Matt Gozzi,affiliate:CrossFit Stealth,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:600,
+				score:10690000,
+				scoreDisplay:69 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:c9bc4a6e1c54e6ec94d2,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n9 thr.,judge:Scott MacDougall,affiliate:CrossFit Stealth,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1145,
+			overallScore:6870,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:640073,
+				competitorName:Dimor Horenstein,
+				firstName:Dimor,
+				lastName:Horenstein,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:26394-P640073_1-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:3,
+				profession:0,
+				affiliateId:5332,
+				affiliateName:CrossFit Bison,
+				age:47,
+				height:73 in,
+				weight:230 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:927,
+				score:12840000,
+				scoreDisplay:284 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:2e5c32b95766dd247dc7,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n8 toes-to-bars\n10 clean & jerks\n10 calories,judge:David Syvertsen,affiliate:CrossFit Bison,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:774,
+				score:11100230,
+				scoreDisplay:8:10,
+				mobileScoreDisplay:,
+				scoreIdentifier:8de8de441dc6bd449758,
+				scaled:0,
+				video:0,
+				time:490,breakdown:110 reps\n205 lb.,judge:David Syvertsen,affiliate:CrossFit Bison,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1167,
+				score:12050230,
+				scoreDisplay:205 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:384f83e9eaf0c396f690,
+				scaled:0,
+				video:0,
+				breakdown:205 lb.,time:490,judge:David Syvertsen,affiliate:CrossFit Bison,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1785,
+				score:9280105,
+				scoreDisplay:12:15 - s,
+				mobileScoreDisplay:,
+				scoreIdentifier:649b6320ae27ab49ffb7,
+				scaled:1,
+				video:0,
+				time:735,breakdown:928 reps,judge:David Syvertsen,affiliate:CrossFit Bison,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:1831,
+				score:1650174,
+				scoreDisplay:6:06 - s,
+				mobileScoreDisplay:,
+				scoreIdentifier:3fff69f78989bce32c7d,
+				scaled:1,
+				video:0,
+				time:366,breakdown:165 reps,judge:David Syvertsen,affiliate:CrossFit Bison,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:387,
+				score:10830000,
+				scoreDisplay:83 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:d4c36a1a74a06d5b95d2,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n15 thr. 8 PU,judge:David Syvertsen,affiliate:CrossFit Bison,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1146,
+			overallScore:6871,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:1313073,
+				competitorName:Steven Gaano,
+				firstName:Steven,
+				lastName:Gaano,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:0,
+				affiliateName:,
+				age:34,
+				height:,
+				weight:,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1331,
+				score:12590000,
+				scoreDisplay:259 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:b3a3633070d551e641f7,
+				scaled:0,
+				video:0,
+				breakdown:8 rounds +\n3 toes-to-bars,judge:Kyle Hadden,affiliate:CrossFit Medford,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1377,
+				score:11100136,
+				scoreDisplay:9:44,
+				mobileScoreDisplay:,
+				scoreIdentifier:4688e2330e63a88c57f8,
+				scaled:0,
+				video:0,
+				time:584,breakdown:110 reps\n185 lb.,judge:Kyle Hadden,affiliate:CrossFit Medford,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1540,
+				score:11850136,
+				scoreDisplay:185 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:77f0d89195dc8629890a,
+				scaled:0,
+				video:0,
+				breakdown:185 lb.,time:584,judge:Kyle Hadden,affiliate:CrossFit Medford,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1063,
+				score:12200600,
+				scoreDisplay:220 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:12be9fc6e4254c659c83,
+				scaled:0,
+				video:0,
+				time:240,breakdown:100 double-unders\n20 overhead squats\n100 double-unders,judge:Kyle Hadden,affiliate:CrossFit Medford,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:496,
+				score:10940111,
+				scoreDisplay:94 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:12e081dd15287edbb427,
+				scaled:0,
+				video:0,
+				time:429,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n9 handstand push-ups\n4 deadlifts,judge:Kyle Hadden,affiliate:CrossFit Medford,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1147,
+			overallScore:6874,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:667985,
+				competitorName:Bruce Hanna,
+				firstName:Bruce,
+				lastName:Hanna,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:e7c39-P667985_1-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:18,
+				profession:0,
+				affiliateId:1398,
+				affiliateName:CrossFit Passaic Valley,
+				age:36,
+				height:71 in,
+				weight:190 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1438,
+				score:12550000,
+				scoreDisplay:255 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:d422eacb9805e69240f0,
+				scaled:0,
+				video:0,
+				breakdown:7 rounds +\n8 toes-to-bars\n10 clean & jerks\n13 calories,judge:Pete Hasselberger,affiliate:CrossFit Passaic Valley,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1348,
+				score:11100140,
+				scoreDisplay:9:40,
+				mobileScoreDisplay:,
+				scoreIdentifier:44f385675bc280a69fea,
+				scaled:0,
+				video:0,
+				time:580,breakdown:110 reps\n185 lb.,judge:Pete Hasselberger,affiliate:CrossFit Passaic Valley,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1537,
+				score:11850140,
+				scoreDisplay:185 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:78efb52d0dfafc7f9cd0,
+				scaled:0,
+				video:0,
+				breakdown:185 lb.,time:580,judge:Pete Hasselberger,affiliate:CrossFit Passaic Valley,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:1033,
+				score:12210300,
+				scoreDisplay:221 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:13e37de7fced2d2515ae,
+				scaled:0,
+				video:0,
+				time:540,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n1 ring muscle-ups,judge:Pete Hasselberger,affiliate:CrossFit Passaic Valley,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:460,
+				score:10950211,
+				scoreDisplay:95 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:57431c3724087d88a7b2,
+				scaled:0,
+				video:0,
+				time:329,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n9 handstand push-ups\n5 deadlifts,judge:Mercedes Mora,affiliate:CrossFit Passaic Valley,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1148,
+			overallScore:6883,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:81507,
+				competitorName:Erik Hagman,
+				firstName:Erik,
+				lastName:Hagman,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:pukie.png,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:3,
+				profession:2,
+				affiliateId:4571,
+				affiliateName:Pennington CrossFit,
+				age:48,
+				height:68 in,
+				weight:168 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:1536,
+				score:12440000,
+				scoreDisplay:244 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:3cea618857771f4a54b2,
+				scaled:0,
+				video:0,
+				breakdown:7 rounds +\n8 toes-to-bars\n10 clean & jerks\n2 calories,judge:Kevin Doran,affiliate:Pennington CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1534,
+				score:11100112,
+				scoreDisplay:10:08,
+				mobileScoreDisplay:,
+				scoreIdentifier:ac5f5876b740512bafeb,
+				scaled:0,
+				video:0,
+				time:608,breakdown:110 reps\n180 lb.,judge:Kevin Doran,affiliate:Pennington CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:1651,
+				score:11800112,
+				scoreDisplay:180 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:b5c9b1f641d7238abf7b,
+				scaled:0,
+				video:0,
+				breakdown:180 lb.,time:608,judge:Kevin Doran,affiliate:Pennington CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:793,
+				score:12280366,
+				scoreDisplay:228 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:6006bff4f1839d74e954,
+				scaled:0,
+				video:0,
+				time:474,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n8 ring muscle-ups,judge:Kelly Shedlosky,affiliate:Pennington CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:990,
+				score:10660111,
+				scoreDisplay:66 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:76a2c24b5204f2592fc6,
+				scaled:0,
+				video:0,
+				time:429,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n9 handstand push-ups,judge:Kevin Doran,affiliate:Pennington CrossFit,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:387,
+				score:10830000,
+				scoreDisplay:83 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:978d3b16f90aeecbb4a7,
+				scaled:0,
+				video:0,
+				breakdown:3 thr. 3 PU \n6 thr. 6 PU \n9 thr. 9 PU \n12 thr. 12 PU \n15 thr. 8 PU,judge:Kristen Farr,affiliate:Pennington CrossFit,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1149,
+			overallScore:6891,
+			nextStage:
+		},
+		{
+			entrant:
+			{
+				competitorId:669853,
+				competitorName:Sean Espinosa,
+				firstName:Sean,
+				lastName:Espinosa,
+				status:ACT,
+				bibId:,
+				gender:M,
+				profilePicS3key:56d0e-P669853_1-184.jpg,
+				countryShortCode:,
+				regionalCode:4,
+				regionId:11,
+				regionName:North East,
+				divisionId:1,
+				profession:0,
+				affiliateId:20945,
+				affiliateName:CrossFit Waldwick,
+				age:27,
+				height:72 in,
+				weight:200 lb,
+				teamCaptain:0
+			},
+
+			ui:
+			{
+				highlight:false
+			},
+
+			scores:
+			[
+				{
+				ordinal:1,
+				rank:2988,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:2,
+				rank:1673,
+				score:11100088,
+				scoreDisplay:10:32,
+				mobileScoreDisplay:,
+				scoreIdentifier:843abbc8e6c625572de1,
+				scaled:0,
+				video:0,
+				time:632,breakdown:110 reps\n245 lb.,judge:Michael Jones,affiliate:CrossFit Waldwick,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:3,
+				rank:559,
+				score:12450088,
+				scoreDisplay:245 lb,
+				mobileScoreDisplay:,
+				scoreIdentifier:179b01c8e156f0b09a91,
+				scaled:0,
+				video:0,
+				breakdown:245 lb.,time:632,judge:Michael Jones,affiliate:CrossFit Waldwick,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:4,
+				rank:368,
+				score:14570000,
+				scoreDisplay:457 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:66c804f27b15b0d68011,
+				scaled:0,
+				video:0,
+				time:840,breakdown:100 double-unders\n20 overhead squats\n100 double-unders\n12 ring muscle-ups\n100 double-unders\n20 snatches\n100 double-unders\n5 bar muscle-ups,judge:Michael Jones,affiliate:CrossFit Waldwick,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:5,
+				rank:243,
+				score:11080000,
+				scoreDisplay:108 reps,
+				mobileScoreDisplay:,
+				scoreIdentifier:0f35de505ef826e093a6,
+				scaled:0,
+				video:0,
+				time:540,breakdown:21 deadlifts\n21 handstand push-ups\n15 deadlifts\n15 handstand push-ups\n9 deadlifts\n9 handstand push-ups\n18 deadlifts,judge:Michael Jones,affiliate:CrossFit Waldwick,
+				heat:,
+				lane:
+				}
+,				{
+				ordinal:6,
+				rank:1067,
+				score:0,
+				scoreDisplay:,
+				mobileScoreDisplay:,
+				scoreIdentifier:,
+				scaled:0,
+				video:0,
+				judge:,affiliate:,time:,breakdown:,
+				heat:,
+				lane:
+				}
+
+			],
+
+			overallRank:1150,
+			overallScore:6898,
 			nextStage:
 		}
 	]

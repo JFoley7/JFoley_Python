@@ -1,4 +1,5 @@
 import requests
+print()
 #LTC API URL
 ltc_url = 'https://api.coinmarketcap.com/v1/ticker/litecoin/'
 #Get API Price
@@ -25,6 +26,7 @@ for y in ltc_data:
 ripple_url = 'https://api.coinmarketcap.com/v1/ticker/ripple/'
 xrp = requests.get(ripple_url)
 xrp_data = (xrp.json())
+
 #personal ripple prices
 xrp_og_price = float(1.32)
 xrp_holdings = float(80.92)
@@ -58,3 +60,4 @@ btc_data = (btc.json())
 for p in btc_data:
     print("BTC Price:", p['price_usd'], "USD")
 
+print()

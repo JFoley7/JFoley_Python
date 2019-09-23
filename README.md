@@ -1,4 +1,4 @@
 Crossfit
 Specific to my profile but will open it up to include anyone who wants it.
 
-Other Python jobs from training course.
+Other Python jobs from training course. -- UDEMY Python Bible for now
